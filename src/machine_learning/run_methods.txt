@@ -1,0 +1,34 @@
+﻿
+Interface BaseClassifier<E>
+Method Summary
+ Classification	classify(E input) 
+          Returns the first-best classification for the specified input.
+Parameters:
+input - Object to classify.
+Returns:
+Classification of object.
+
+
+
+
+
+classfication
+Constructor Summary
+Classification(String bestCategory) 
+          Construct a classification with the specified first-best category.
+ 
+Method Summary
+ String	bestCategory() 
+          Returns the best-scoring category.
+ String	toString() 
+          Returns a string-based representation of the first-best category of this classification.
+
+
+
+
+public abstract class AbstractExternalizable extends Object
+implements Externalizable
+方法
+static Object	readObject(File file) 
+          Returns the result of reading a serialized object stored in the specified file
+

@@ -1,0 +1,1832 @@
+<query_vocabulary>
+<domain_name>Car Rentals</domain_name>
+<compiler> Zhen Zhang </compiler>
+
+<source url="http://www.1st-ukcarrentals.com/default.asp?p=q2" interurl="http://www.1st-ukcarrentals.com/default.asp?page=getquote&amp;amp;amp;a=1">
+<srcname>1st UK Car Rentals</srcname>
+<form>
+<attrgroup>
+	<attr name="Choose your pick up location" ename="pick up location">
+		<domain format="selection_list">
+			<value>Please select...</value><value>London Heathrow (LHR)</value><value>London Gatwick (LGW)</value><value>Manchester Airport (MAN)</value><value>Aberdeen Airport (ABZ)</value><value>Belfast Airport (BFS)</value><value>Birmingham Airport (BHX)</value><value>Bristol Airport (BRL)</value><value>Cork Airport (ORK)</value><value>Dublin Airport (DUB)</value><value>East Midlands Airport (EMA)</value><value>Edinburgh Airport (EDI)</value><value>Glasgow Int Airport (GLA)</value><value>London Luton Airport (LTN)</value><value>London Stansted (STN)</value><value>Newcastle Airport (NCL)</value><value>Prestwick Airport (PIK)</value><value>Shannon Airport (SNN)</value><value>Southampton Airport (SOU)</value><value>-------</value><value>Aberdeen City</value><value>Aberystwyth</value><value>Basingstoke</value><value>Bath</value><value>Bedford</value><value>Belfast</value><value>Belfast City Airport</value><value>Birkenhead</value><value>Birmingham</value><value>Blackpool</value><value>Bournemouth</value><value>Bradford</value><value>Brentford</value><value>Brentford (Chauffeur Drive)</value><value>Brighton</value><value>Bristol Airport (BRS)</value><value>Bristol City (Retail)</value><value>Bristol Rolls Royce</value><value>Cambridge</value><value>Cardiff</value><value>Cardiff Airport</value><value>Carlisle</value><value>Chelmsford</value><value>Chester</value><value>Chorley</value><value>Colwyn Bay</value><value>Coventry</value><value>Croydon</value><value>Derby</value><value>Dover East Docks</value><value>Droitwich</value><value>Edgware</value><value>Edinburgh City</value><value>Edinburgh Wavely Station</value><value>Exeter</value><value>Exeter Airport</value><value>Falmouth</value><value>Fishguard</value><value>Gatwick (Salfords)</value><value>Glasgow</value><value>Gloucester</value><value>Grays</value><value>Great Yarmouth</value><value>Guernsey Airport</value><value>Hemel Hempstead</value><value>High Wycombe</value><value>Hull</value><value>Humberside Airport</value><value>Inverness</value><value>Ipswich</value><value>Isle Of Man</value><value>Isle Of Man Airport</value><value>Jersey - St Brelade</value><value>Jersey - St Helier</value><value>Jersey Airport (JER)</value><value>Leeds Bradford Airport</value><value>Leeds City</value><value>Leicester</value><value>Lincoln</value><value>Liverpool</value><value>Liverpool Airport</value><value>London City Airport</value><value>Londonderry Airport</value><value>Luton</value><value>Manchester Salfords</value><value>Milton Keynes</value><value>New Malden</value><value>Newcastle City</value><value>Newport</value><value>Newquay Airport</value><value>Northampton</value><value>Norwich Airport</value><value>Nottingham</value><value>Orkney</value><value>Oxford</value><value>Penzance</value><value>Perth</value><value>Peterborough</value><value>Plymouth</value><value>Portsmouth</value><value>Preston</value><value>Reading</value><value>Richmond</value><value>Ruislip</value><value>Salisbury</value><value>Sheffield</value><value>Shetland - Lerwick</value><value>Shetland - Sumburgh Airport (LWK)</value><value>Slough</value><value>Southampton</value><value>Southport</value><value>Stafford</value><value>Stevenage</value><value>Stockport</value><value>Stourbridge</value><value>Swansea</value><value>Swindon</value><value>Taunton</value><value>Teesside Airport</value><value>Telford</value><value>Tonbridge</value><value>Truro</value><value>Victoria</value><value>Warrington</value><value>Weymouth</value><value>Woking</value><value>Wolverhampton</value><value>Woodford Green</value><value>York</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+<form name="1st UK Car Rentals Fast Quote">
+<attrgroup>
+	<attr name="Vehicle Class " ename="class">
+		<domain format="selection_list">
+			<value>Please select...</value><value>MANUAL MINI CAR 3 DR MCMN (A)</value><value>MANUAL ECONOMY CAR 3 DR ECMN (B)</value><value>MANUAL COMPACT CAR 4 DR CCMN (C)</value><value>MANUAL INTERMEDIATE CAR 4 DR AIR-CON IDMR (D)</value><value>MANUAL STANDARD CAR 4 DR WITH AIR-CON SDMR (E)</value><value>MANUAL FULL SIZE CAR 4 DR WITH AIR-CON FDMR (F)</value><value>AUTOMATIC ECONOMY CAR  3 DR ECAN (BA)</value><value>AUTOMATIC INTERMEDIATE CAR  WITH AIR-CON  IDAR (DA)</value><value>AUTOMATIC FULL SIZE CAR  4 DR  AIR-CON FDAR (FA)</value><value>ESTATE COMPACT WAGON  WITH AIR-CON CWMR (DW)</value><value>ESTATE STANDARD WAGON  WITH AIR-CON SWMR (EW)</value><value>ESTATE FULLSIZE WAGON AUTO  WITH AIR-CON (GW)</value><value>7 SEATER MPV WITH AIR-CON FVMR (7M)</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick Up Date/Time" ename="pick up time">
+			<domain label="day" format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain label="month" format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain label="year" format="selection_list">
+			<value>2003</value><value>2004</value>
+			</domain>
+			<domain label="time" format="selection_list">
+				<value>0:00</value><value>1:00</value><value>2:00</value><value>3:00</value><value>4:00</value><value>5:00</value><value>6:00</value><value>7:00</value><value>8:00</value><value>9:00</value><value>10:00</value><value>11:00</value><value>12:00</value><value>13:00</value><value>14:00</value><value>15:00</value><value>16:00</value><value>17:00</value><value>18:00</value><value>19:00</value><value>20:00</value><value>21:00</value><value>22:00</value><value>23:00</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop off Date/Time" ename="drop off time">
+			<domain label="day" format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain label="month" format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain name="year" format="selection_list">
+			<value>2003</value><value>2004</value>
+			</domain>
+			<domain name="time" format="selection_list">
+				<value>0:00</value><value>1:00</value><value>2:00</value><value>3:00</value><value>4:00</value><value>5:00</value><value>6:00</value><value>7:00</value><value>8:00</value><value>9:00</value><value>10:00</value><value>11:00</value><value>12:00</value><value>13:00</value><value>14:00</value><value>15:00</value><value>16:00</value><value>17:00</value><value>18:00</value><value>19:00</value><value>20:00</value><value>21:00</value><value>22:00</value><value>23:00</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick Up Location" ename="Pick Up Location">
+		<domain format="selection_list">
+		  <value>Gatwick Airport (LGW)</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop Off Location" ename="Drop Off Location">
+		<domain format="selection_list">
+		  <value>astring</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Full Name" ename="Full Name">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Telephone" ename="Telephone">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Email" ename="Email">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Please state how did you hear about us? Or, enter a rate code" ename="rate code">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://airlines-hotels.com" interurl="http://airlines-hotels.com/carrentals/ace.htm">
+<srcname>airlines-hotels.com</srcname>
+<form>
+<attrgroup>
+	<attr name="Pick-up city (Airport Code Only):" ename="pick up city">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick Up Date" ename="pick up date">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain name="Time" format="selection_list">
+				<value>12:00am</value><value>1:00am</value><value>2:00am</value><value>3:00am</value><value>4:00am</value><value>5:00am</value><value>6:00am</value><value>7:00am</value><value>8:00am</value><value>9:00am</value><value>10:00am</value><value>11:00am</value><value>12:00pm</value><value>1:00pm</value><value>2:00pm</value><value>3:00pm</value><value>4:00pm</value><value>5:00pm</value><value>6:00pm</value><value>7:00pm</value><value>8:00pm</value><value>9:00pm</value><value>10:00pm</value><value>11:00pm</value>
+			</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Drop-off city (Airport Code Only):" ename="drop off city">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop off Date" ename="drop off date">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain name="Time" format="selection_list">
+				<value>12:00am</value><value>1:00am</value><value>2:00am</value><value>3:00am</value><value>4:00am</value><value>5:00am</value><value>6:00am</value><value>7:00am</value><value>8:00am</value><value>9:00am</value><value>10:00am</value><value>11:00am</value><value>12:00pm</value><value>1:00pm</value><value>2:00pm</value><value>3:00pm</value><value>4:00pm</value><value>5:00pm</value><value>6:00pm</value><value>7:00pm</value><value>8:00pm</value><value>9:00pm</value><value>10:00pm</value><value>11:00pm</value>		
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Type">
+		<domain format="selection_list">
+			<value>No Preference</value><value>Compact</value><value>Economy</value><value>Full Size</value><value>Intermediate</value><value>Luxury</value><value>Mini Van</value><value>Premium</value><value>Special</value><value>Standard</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Transmission">
+		<domain format="selection_list">
+			<value>Manual</value><value>Automatic</value> 
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://res.alamo.com/" interurl="http://res.alamo.com/">
+<srcname>Alamo.com</srcname>
+<form>
+<attrgroup>
+	<attr name=" Country of Residence?" ename="country">
+		<domain format="selection_list">
+			<error> cannot get the value because it is a frameset</error>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pickup Location" ename="pick up location">
+		<domain format="text_box">
+			
+		</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Pickup Date" ename="pick up date">
+			<domain format="selection_list">
+				<error> frameset, cannot extract value</error>			
+			</domain>
+			<domain format="selection_list">
+				<error> frameset, cannot extract value</error>			
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pickup time" ename="pick up time">
+			<domain format="selection_list">
+				<error> frameset, cannot extract value</error>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="drop-off Location" ename="drop off location">
+		<domain format="text_box">
+			
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="drop-off Date" ename="drop off date">
+			<domain labelformat="selection_list">
+				<error> frameset, cannot extract value</error>
+			</domain>
+			<domain format="selection_list">
+				<error> frameset, cannot extract value</error>			
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+		<attr name="drop-off Time" ename="drop off time">
+			<domain format="selection_list">
+				<error> frameset, cannot extract value</error>			
+			</domain>
+		</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Rate Code">
+		<domain format="text_box">
+			
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Promo Code/Assoc. I.D">
+		<domain format="text_box">
+			
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Corporate I.D.">
+		<domain format="text_box">
+			
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name=" Coupon Code">
+		<domain format="text_box">
+			
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Airline">
+		<domain format="selection_list">
+			<error> frameset, cannot extract value</error>						
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Flight Number">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Member I.D. ">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Member Last Name" ename="last name">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.allstatecarrental.com" interurl="http://www.allstatecarrental.com/reserve.html">
+<srcname>AllState Car Rental</srcname>
+<form>
+<attrgroup>
+	<attr name="Rental Location">
+		<domain format="selection_list">
+			<value>choose a location</value><value>Mccarran International Airport</value><value>Riviera Hotel &amp;amp;amp; Casino</value><value>Nellis Air Force Base</value>			
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Return Location ">
+		<domain format="selection_list">
+			<value>same as above</value><value>Mccarran International Airport</value><value>Riviera Hotel &amp;amp;amp; Casino</value><value>Nellis Air Force Base</value	>		
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-Up Date" ename="pick up date">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value><value>2005</value><value>2006</value><value>2007</value><value>2008</value><value>2009</value><value>2010</value><value>2011</value><value>2012</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up Time" ename="pick up time">
+		<domain format="selection_list">
+			<value>12:00 Am</value><value>12:30 Am</value><value>1:00 Am</value><value>1:30 Am</value><value>2:00 Am</value><value>2:30 Am</value><value>3:00 Am</value><value>3:30 Am</value><value>4:00 Am</value><value>4:30 Am</value><value>5:00 Am</value><value>5:30 Am</value><value>6:00 Am</value><value>6:30 Am</value><value>7:00 Am</value><value>7:30 Am</value><value>8:00 Am</value><value>8:30 Am</value><value>9:00 Am</value><value>9:30 Am</value><value>10:00 Am</value><value>10:30 Am</value><value>11:00 Am</value><value>11:30 Am</value><value>12:00 Pm</value><value>12:30 Pm</value><value>1:00 Pm</value><value>1:30 Pm</value><value>2:00 Pm</value><value>2:30 Pm</value><value>3:00 Pm</value><value>3:30 Pm</value><value>4:00 Pm</value><value>4:30 Pm</value><value>5:00 Pm</value><value>5:30 Pm</value><value>6:00 Pm</value><value>6:30 Pm</value><value>7:00 Pm</value><value>7:30 Pm</value><value>8:00 Pm</value><value>8:30 Pm</value><value>9:00 Pm</value><value>9:30 Pm</value><value>10:00 Pm</value><value>10:30 Pm</value><value>11:00 Pm</value><value>11:30 Pm</value>
+		</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Drop-off Date" ename="drop off date">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value><value>2005</value><value>2006</value><value>2007</value><value>2008</value><value>2009</value><value>2010</value><value>2011</value><value>2012</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off Time" ename="drop off time">
+		<domain format="selection_list">
+			<value>12:00 Am</value><value>12:30 Am</value><value>1:00 Am</value><value>1:30 Am</value><value>2:00 Am</value><value>2:30 Am</value><value>3:00 Am</value><value>3:30 Am</value><value>4:00 Am</value><value>4:30 Am</value><value>5:00 Am</value><value>5:30 Am</value><value>6:00 Am</value><value>6:30 Am</value><value>7:00 Am</value><value>7:30 Am</value><value>8:00 Am</value><value>8:30 Am</value><value>9:00 Am</value><value>9:30 Am</value><value>10:00 Am</value><value>10:30 Am</value><value>11:00 Am</value><value>11:30 Am</value><value>12:00 Pm</value><value>12:30 Pm</value><value>1:00 Pm</value><value>1:30 Pm</value><value>2:00 Pm</value><value>2:30 Pm</value><value>3:00 Pm</value><value>3:30 Pm</value><value>4:00 Pm</value><value>4:30 Pm</value><value>5:00 Pm</value><value>5:30 Pm</value><value>6:00 Pm</value><value>6:30 Pm</value><value>7:00 Pm</value><value>7:30 Pm</value><value>8:00 Pm</value><value>8:30 Pm</value><value>9:00 Pm</value><value>9:30 Pm</value><value>10:00 Pm</value><value>10:30 Pm</value><value>11:00 Pm</value><value>11:30 Pm</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.asiatravelmart.com" interurl="http://www.asiatravelmart.com/index.cfm?id=n&amp;amp;ud=n&amp;amp;pid=n&amp;amp;pl=806521&amp;amp;mpid=n&amp;amp;mpl=n&amp;amp;mid=n&amp;amp;md=n&amp;amp;crc=USD&amp;amp;a=1&amp;amp;c=0&amp;amp;I=0&amp;amp;cr=ot&amp;amp;tb=5&amp;amp;menu=CarSearch">
+<srcname>AsiaTravelmart.com</srcname>
+<form>
+<attrgroup>
+	<attr name="Pick Up Location" ename="pick up location">
+		<domain format="text_box">
+		</domain>
+		<additional>city name, airport name/code </additional>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pickup Point" ename="pick up point">
+		<domain format="selection_list">
+			<value>Airport</value><value>Off Airport</value><value>City Location</value><value>Default Location</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick Up Date" ename="pick up date">
+			<domain label="day" format="selection_list">
+				<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+				</domain>
+				<domain label="month" format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+				</domain>
+				<domain label="year" format="selection_list">
+				<value>2003</value><value>2004</value>
+				</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick Up Time" ename="pick up time">
+			<domain label="time" format="selection_list">
+				<value>12:00 AM</value><value>1:00 AM</value><value>2:00 AM</value><value>3:00 AM</value><value>4:00 AM</value><value>5:00 AM</value><value>6:00 AM</value><value>7:00 AM</value><value>8:00 AM</value><value>9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 Noon</value><value>1:00 PM</value><value>2:00 PM</value><value>3:00 PM</value><value>4:00 PM</value><value>5:00 PM</value><value>6:00 PM</value><value>7:00 PM</value><value>8:00 PM</value><value>9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop Off Location" ename="drop off location">
+		<domain format="text_box">
+		</domain>
+		<additional>city name, airport name/code </additional>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop Off Date" ename="drop off date">
+			<domain label="day" format="selection_list">
+				<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+				</domain>
+				<domain label="month" format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+				</domain>
+				<domain label="year" format="selection_list">
+				<value>2003</value><value>2004</value>
+				</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop Off Time" ename="drop off time">
+			<domain label="time" format="selection_list">
+				<value>12:00 AM</value><value>1:00 AM</value><value>2:00 AM</value><value>3:00 AM</value><value>4:00 AM</value><value>5:00 AM</value><value>6:00 AM</value><value>7:00 AM</value><value>8:00 AM</value><value>9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 Noon</value><value>1:00 PM</value><value>2:00 PM</value><value>3:00 PM</value><value>4:00 PM</value><value>5:00 PM</value><value>6:00 PM</value><value>7:00 PM</value><value>8:00 PM</value><value>9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="What kind of car would you like to rent?" ename="kind of car">
+		<domain format="check_box">
+			<value>No Preference</value>
+		</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Car Type">
+		<domain format="selection_list">
+			<value>All</value><value>Mini</value><value>Economy</value><value>Compact</value><value>Intermediate</value><value>Standard</value><value>Full size</value><value>Luxury</value><value>Special</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Category">
+		<domain format="selection_list">
+			<value>Car 2 or 4 door</value><value>Car 2 door</value><value>Sport</value><value>Convertible</value><value>Special</value>		
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Transmission">
+		<domain format="selection_list">
+			<value>automatic</value><value>manual</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Air-Conditioning" ename="air-conditioning">
+		<domain format="selection_list">
+		<value>Yes</value><value>No</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Preferred Agencies (max 3)" ename="agency">
+		<domain format="selection_list">
+			<value>(No Preference)</value><value>Advantage</value><value>Alamo</value><value>Avis</value><value>Budget</value><value>Dollar</value><value>Enterprise</value><value>Hertz</value><value>Montgomery Ward</value><value>National</value><value>Sears</value><value>Thrifty</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.autoeurope.com/car.cfm" interurl="http://www.autoeurope.com/car.cfm">
+<srcname>AutoEurope.com </srcname>
+<form>
+<attrgroup>
+	<attr name="Pick-Up Country" ename="pick up country">
+		<domain format="selection_list">
+			<value>Australia</value><value>Austria</value><value>Belgium</value><value>Britain</value><value>Bulgaria</value><value>Croatia</value><value>Cyprus</value><value>Czech Republic</value><value>Denmark</value><value>Estonia</value><value>Finland</value><value>France</value><value>Germany</value><value>Greece</value><value>Holland</value><value>Hungary</value><value>Iceland</value><value>Ireland</value><value>Israel</value><value>Italy</value><value>Latvia</value><value>Luxembourg</value><value>Malta</value><value>Morocco</value><value>Netherlands</value><value>New Zealand</value><value>Northern Ireland</value><value>Norway</value><value>Poland</value><value>Portugal</value><value>Romania</value><value>Serbia</value><value>Slovakia</value><value>Slovenia</value><value>South Africa</value><value>Spain</value><value>Sweden</value><value>Switzerland</value><value>Turkey</value><value>UK</value>			
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Vehicle Class ">
+		<domain format="selection_list">
+			<value>Australia</value><value>Austria</value><value>Belgium</value><value>Britain</value><value>Bulgaria</value><value>Croatia</value><value>Cyprus</value><value>Czech Republic</value><value>Denmark</value><value>Estonia</value><value>Finland</value><value>France</value><value>Germany</value><value>Greece</value><value>Holland</value><value>Hungary</value><value>Iceland</value><value>Ireland</value><value>Israel</value><value>Italy</value><value>Latvia</value><value>Luxembourg</value><value>Malta</value><value>Morocco</value><value>Netherlands</value><value>New Zealand</value><value>Northern Ireland</value><value>Norway</value><value>Poland</value><value>Portugal</value><value>Romania</value><value>Serbia</value><value>Slovakia</value><value>Slovenia</value><value>South Africa</value><value>Spain</value><value>Sweden</value><value>Switzerland</value><value>Turkey</value><value>UK</value>						
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+<form>
+<attrgroup>
+	<attr name="Pick-Up City " ename="pick up city">
+		<domain format="selection_list">
+			<value>Adelaide</value><value>Alice Springs</value><value>Armidale</value><value>Brisbane</value><value>Cairns</value><value>Canberra</value><value>Coolangatta</value><value>Darwin</value><value>Devonport</value><value>Gladstone</value><value>Gosford</value><value>Hervey Bay</value><value>Hobart</value><value>Launceston</value><value>Mackay</value><value>Melbourne</value><value>Newcastle</value><value>Perth</value><value>Rockhampton</value><value>Surfers Paradise</value><value>Sydney</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-Off  City " ename="drop off city">
+		<domain format="selection_list">
+			<value>Adelaide</value><value>Alice Springs</value><value>Armidale</value><value>Brisbane</value><value>Cairns</value><value>Canberra</value><value>Coolangatta</value><value>Darwin</value><value>Devonport</value><value>Gladstone</value><value>Gosford</value><value>Hervey Bay</value><value>Hobart</value><value>Launceston</value><value>Mackay</value><value>Melbourne</value><value>Newcastle</value><value>Perth</value><value>Rockhampton</value><value>Surfers Paradise</value><value>Sydney</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick Up Date &amp; Time" ename="pick up time">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+			<value>2003</value><value>2004</value><value>2005</value>
+			</domain>
+			<domain format="selection_list">
+				<value>0</value><value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value>
+			</domain>
+			<domain format="selection_list">
+				<value>15</value><value>30</value><value>45</value><value>00</value>
+			</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Drop-Off Date &amp; Time" ename="drop off time">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+			<value>2003</value><value>2004</value><value>2005</value>
+			</domain>
+			<domain format="selection_list">
+				<value>0</value><value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value>
+			</domain>
+			<domain format="selection_list">
+				<value>15</value><value>30</value><value>45</value><value>00</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Class ">
+	<domain format="check_box">
+	<value>Mini/Economy</value><value>Compact</value><value>Midsize</value><value>Standard</value><value>Full Size</value><value>Premium</value><value>Luxury</value><value>People Carrier/Estate </value>
+	</domain>
+	</attr>
+</attrgroup>
+</form>
+<comments> navigational form, only follow 2 steps </comments>
+</source>
+
+<source url="https://www.avis.com" interurl="https://www.avis.com/AvisWeb/home/AvisHome">
+<srcname>Avis.com</srcname>
+<form>
+<attrgroup>
+	<attr name=" Pick-up Date: " ename="pick up date">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="pick-up Time" ename="pick up time">
+			<domain format="selection_list">
+				<value>0</value><value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value>
+			</domain>
+			<domain format="selection_list">
+				<value>15</value><value>30</value><value>45</value><value>00</value>
+			</domain>
+			<domain format="radio_button">
+				<value>am</value><value>pm</value>
+			</domain>
+		</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="return Date: " ename="return date">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+			<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Return Time">
+			<domain format="selection_list">
+				<value>0</value><value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value>
+			</domain>
+			<domain format="selection_list">
+				<value>15</value><value>30</value><value>45</value><value>00</value>
+			</domain>
+			<domain format="radio_button">
+				<value>am</value><value>pm</value>
+			</domain>
+		</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Airport Location Code">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+		<attr name="City/Town" ename="city">
+			<domain format="text_box">
+			</domain>
+		</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="State/Province" ename="state">
+			<domain format="selection_list">
+				<value>Please Select One</value><value>Not Applicable</value><value>State/Province</value><value>--U S A--</value><value>Alabama</value><value>Alaska</value><value>Arizona</value><value>Arkansas</value><value>California</value><value>Colorado</value><value>Connecticut</value><value>Delaware</value><value>District of Columbia</value><value>Florida</value><value>Georgia</value><value>Hawaii</value><value>Idaho</value><value>Illinois</value><value>Indiana</value><value>Iowa</value><value>Kansas</value><value>Kentucky</value><value>Louisiana</value><value>Maine</value><value>Maryland</value><value>Massachusetts</value><value>Michigan</value><value>Minnesota</value><value>Mississippi</value><value>Missouri</value><value>Montana</value><value>Nebraska</value><value>Nevada</value><value>New Hampshire</value><value>New Jersey</value><value>New Mexico</value><value>New York</value><value>North Carolina</value><value>North Dakota</value><value>Ohio</value><value>Oklahoma</value><value>Oregon</value><value>Pennsylvania</value><value>Rhode Island</value><value>South Carolina</value><value>South Dakota</value><value>Tennessee</value><value>Texas</value><value>Utah</value><value>Vermont</value><value>Virginia</value><value>Washington</value><value>West Virginia</value><value>Wisconsin</value><value>Wyoming</value><value>--Canada--</value><value>Alberta</value><value>British Columbia</value><value>Manitoba</value><value>New Brunswick</value><value>Newfoundland</value><value>Northwest Territories</value><value>Nova Scotia</value><value>Nunavut</value><value>Ontario</value><value>Prince Edward Island</value><value>Quebec</value><value>Saskatchewan</value><value>Yukon Territory</value><value>--Australia--</value><value>Australian Capital Territory</value><value>New South Wales</value><value>Northern Territory</value><value>Queensland</value><value>South Australia</value><value>Tasmania</value><value>Victoria</value><value>Western Australia</value></domain>
+		</attr>
+</attrgroup>
+<attrgroup>
+		<attr name="Country">
+			<domain format="selection_list">
+			<value>Albania</value><value>Andorra</value><value>Angola</value><value>Anguilla</value><value>Antigua</value><value>Argentina</value><value>Aruba</value><value>Australia</value><value>Austria</value><value>Azerbaijan</value><value>Bahamas</value><value>Bahrain</value><value>Belarus</value><value>Belgium</value><value>Belize</value><value>Bonaire</value><value>Bosnia</value><value>Botswana</value><value>Brazil</value><value>Brunei</value><value>Bulgaria</value><value>Burkina Faso</value><value>Cameroon</value><value>Canada</value><value>Cape Verdi Is.</value><value>Central African Republic</value><value>Chad</value><value>Chile</value><value>China</value><value>Comores</value><value>Congo (Dem. Rep. of the)</value><value>Cook Islands (Rarotonga)</value><value>Costa Rica</value><value>Croatia</value><value>Curacao (Netherland Antilles)</value><value>Cyprus</value><value>Czech Republic</value><value>Denmark</value><value>Dominican Republic</value><value>Ecuador</value><value>Egypt</value><value>El Salvador</value><value>Equatorial Guinea</value><value>Estonia</value><value>Ethiopia</value><value>Faroe Islands</value><value>Fiji Islands</value><value>Finland</value><value>France</value><value>French Guiana</value><value>Gabon</value><value>Georgia</value><value>Germany</value><value>Ghana</value><value>Gibraltar</value><value>Grand Cayman</value><value>Greece</value><value>Grenada</value><value>Guadeloupe(French West Indies)</value><value>Guam</value><value>Guatemala</value><value>Guinea</value><value>Haiti</value><value>Honduras</value><value>Hong Kong</value><value>Hungary</value><value>Iceland</value><value>India</value><value>Indonesia</value><value>Ireland (Republic)</value><value>Israel</value><value>Italy</value><value>Ivory Coast</value><value>Japan</value><value>Jordan</value><value>Kazakhstan</value><value>Kenya</value><value>Kuwait</value><value>Latvia</value><value>Lebanon</value><value>Lesotho</value><value>Lithuania</value><value>Luxembourg</value><value>Macau</value><value>Macedonia (Fyrom)</value><value>Madagascar</value><value>Malawi</value><value>Malaysia</value><value>Mali</value><value>Malta</value><value>Martinique</value><value>Mauritius</value><value>Mexico</value><value>Moldova</value><value>Morocco</value><value>Mozambique</value><value>Namibia (South West Africa)</value><value>New Caledonia</value><value>New Zealand</value><value>Nicaragua</value><value>Nigeria</value><value>Norway</value><value>Oman (Sultanate of)</value><value>Pakistan</value><value>Panama</value><value>Papua New Guinea</value><value>Peru</value><value>Philippines</value><value>Poland</value><value>Portugal</value><value>Puerto Rico</value><value>Qatar</value><value>Reunion Islands</value><value>Romania</value><value>Russian Federation</value><value>Samoa (American)</value><value>Samoa (Western)</value><value>Saudi Arabia</value><value>Senegal</value><value>Seychelles</value><value>Singapore</value><value>Slovak Republic</value><value>Slovenia</value><value>South Africa</value><value>South Korea</value><value>Spain</value><value>Sri Lanka</value><value>St Barthelemy</value><value>St Lucia</value><value>St Martin</value><value>St Vincent</value><value>Suriname</value><value>Swaziland</value><value>Sweden</value><value>Switzerland</value><value>Tahiti (French Polynesia)</value><value>Tanzania</value><value>Thailand</value><value>The Netherlands</value><value>Togo</value><value>Tonga</value><value>Tortola (British Virgin Isl)</value><value>Trinidad &amp; Tobago</value><value>Tunisia</value><value>Turkey</value><value>Turks and Caicos</value><value>U S A</value><value>US Virgin Islands (St Croix)</value><value>US Virgin Islands (St Thomas)</value><value>Ukraine</value><value>United Arab Emirates</value><value>United Kingdom</value><value>Uruguay</value><value>Vanuatu</value><value>Venezuela</value><value>West Indies (St Kitts, Nevis)</value><value>Yugoslavia (Federation of)</value><value>Zambia</value><value>Zimbabwe</value>
+			</domain>
+		</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="">
+			<domain format="radio_button">
+			<value>Only Airport Locations</value><value> All Locations </value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="">
+		<domain format="check_box">
+			<value>I plan to return the car to a different location</value>
+		</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Wizard Number">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Last Name">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Arriving Airline">
+		<domain format="selection_list">
+			<value>None</value><value>AER LINGUS</value><value>AEROLINEAS ARGENTINAS</value><value>AEROMEXICO</value><value>AIR CANADA</value><value>AIR FRANCE</value><value>AIR JAMAICA</value><value>AIR NAMIBIA</value><value>AIR NEW ZEALAND</value><value>AIRTRAN AIRWAYS</value><value>ALASKA AIRLINES</value><value>ALITALIA</value><value>ALL NIPPON AIRWAYS</value><value>ALOHA AIRLINES</value><value>AMERICA WEST AIRLINES</value><value>AMERICAN AIRLINES</value><value>AMERICAN TRANS AIR</value><value>ANSETT NEW ZEALAND AIRLINES</value><value>AUSTRIAN AIRLINES</value><value>BRITISH AIRWAYS</value><value>BRITISH EUROPEAN</value><value>BRITISH MIDLAND</value><value>CANADIAN AIRLINES</value><value>CANJET AIRLINES</value><value>CATHAY PACIFIC AIRWAYS</value><value>CHINA AIRLINES</value><value>CONTINENTAL AIRLINES</value><value>DELTA AIRLINES</value><value>EL AL ISRAEL AIRLINES</value><value>EVA AIRWAYS</value><value>FINNAIR</value><value>FRONTIER AIRLINES</value><value>GULF AIR</value><value>HAWAIIAN AIRLINES</value><value>HORIZON AIR</value><value>IBERIA</value><value>ICELANDAIR</value><value>INTENSIVE AIR</value><value>JAPAN AIRLINES</value><value>JET BLUE AIRWAYS</value><value>JETSGO</value><value>KENDELL AIRLINES</value><value>KIWI INTERNATIONAL AIR LINES</value><value>KLM-ROYAL DUTCH AIRLINES</value><value>KOREAN AIR</value><value>LAUDA AIR</value><value>LOT POLISH AIRLINES</value><value>LUFTHANSA GERMAN AIRLINES</value><value>MALAYSIA AIRLINES</value><value>MESA AIRLINES</value><value>MEXICANA DE AVIACION</value><value>MIDWAY AIRLINES</value><value>MIDWEST AIRLINES</value><value>NATIONAL AIRWAYS</value><value>NATIONWIDE</value><value>NORTHWEST AIRLINES</value><value>OTHER AIRLINES (NOT LISTED)</value><value>QANTAS AIRWAYS</value><value>ROYAL AIRLINES</value><value>RYANAIR</value><value>SA AIRLINK</value><value>SABENA</value><value>SAS-SCANDINAVIAN AIRLINE</value><value>SINGAPORE AIRLINES</value><value>SOUTH AFRICAN AIRWAYS</value><value>SOUTHWEST AIRLINES</value><value>SPANAIR</value><value>SPIRIT AIRLINES</value><value>SWISS INTERNATIONAL AIRLINES</value><value>TAM AIRLINES</value><value>TOWER AIR</value><value>TURKISH AIRLINES</value><value>UNITED AIRLINES</value><value>US AIRWAYS</value><value>VANGUARD AIRLINES</value><value>VARIG</value><value>VIRGIN ATLANTIC AIRWAYS</value><value>VIRGIN BLUE</value><value>WESTERN PACIFIC AIRLINES</value><value>WESTJET AIRLINES</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Flight Number">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+
+<source url="https://rent.drivebudget.com/Main.jsp" interurl="https://rent.drivebudget.com/Main.jsp">
+<srcname>Budget Car Rental</srcname>
+<form>
+<attrgroup>
+	<attr name="Pick-up Browse for Locations" ename="pick up location">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="">
+		<domain format="check_box">
+			<option>Search only airport locations.</option>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up date" ename="pick up date">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>Jan 2004</value><value>Feb 2004</value><value>Mar 2004</value><value>Apr 2004</value><value>May 2003</value><value>Jun 2003</value><value>Jul 2003</value><value>Aug 2003</value><value>Sep 2003</value><value>Oct 2003</value><value>Nov 2003</value><value>Dec 2003</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up time" ename="pick up time">
+			<domain format="selection_list">
+				<value>12:00 AM</value><value>12:30 AM</value><value>1:00 AM</value><value>1:30 AM</value><value>2:00 AM</value><value>2:30 AM</value><value>3:00 AM</value><value>3:30 AM</value><value>4:00 AM</value><value>4:30 AM</value><value>5:00 AM</value><value>5:30 AM</value><value>6:00 AM</value><value>6:30 AM</value><value>7:00 AM</value><value>7:30 AM</value><value>8:00 AM</value><value>8:30 AM</value><value>9:00 AM</value><value>9:30 AM</value><value>10:00 AM</value><value>10:30 AM</value><value>11:00 AM</value><value>11:30 AM</value><value>12:00 PM</value><value>12:30 PM</value><value>1:00 PM</value><value>1:30 PM</value><value>2:00 PM</value><value>2:30 PM</value><value>3:00 PM</value><value>3:30 PM</value><value>4:00 PM</value><value>4:30 PM</value><value>5:00 PM</value><value>5:30 PM</value><value>6:00 PM</value><value>6:30 PM</value><value>7:00 PM</value><value>7:30 PM</value><value>8:00 PM</value><value>8:30 PM</value><value>9:00 PM</value><value>9:30 PM</value><value>10:00 PM</value><value>10:30 PM</value><value>11:00 PM</value><value>11:30 PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Drop-off Browse for Locations" ename="drop off location">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="">
+		<domain format="check_box">
+			<option>Search only airport locations.</option>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off date" ename="drop off date">
+			<domain format="selection_list">
+			<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>Jan 2004</value><value>Feb 2004</value><value>Mar 2004</value><value>Apr 2004</value><value>May 2003</value><value>Jun 2003</value><value>Jul 2003</value><value>Aug 2003</value><value>Sep 2003</value><value>Oct 2003</value><value>Nov 2003</value><value>Dec 2003</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off time" ename="drop off time">
+			<domain format="selection_list">
+				<value>12:00 AM</value><value>12:30 AM</value><value>1:00 AM</value><value>1:30 AM</value><value>2:00 AM</value><value>2:30 AM</value><value>3:00 AM</value><value>3:30 AM</value><value>4:00 AM</value><value>4:30 AM</value><value>5:00 AM</value><value>5:30 AM</value><value>6:00 AM</value><value>6:30 AM</value><value>7:00 AM</value><value>7:30 AM</value><value>8:00 AM</value><value>8:30 AM</value><value>9:00 AM</value><value>9:30 AM</value><value>10:00 AM</value><value>10:30 AM</value><value>11:00 AM</value><value>11:30 AM</value><value>12:00 PM</value><value>12:30 PM</value><value>1:00 PM</value><value>1:30 PM</value><value>2:00 PM</value><value>2:30 PM</value><value>3:00 PM</value><value>3:30 PM</value><value>4:00 PM</value><value>4:30 PM</value><value>5:00 PM</value><value>5:30 PM</value><value>6:00 PM</value><value>6:30 PM</value><value>7:00 PM</value><value>7:30 PM</value><value>8:00 PM</value><value>8:30 PM</value><value>9:00 PM</value><value>9:30 PM</value><value>10:00 PM</value><value>10:30 PM</value><value>11:00 PM</value><value>11:30 PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Rate Choice">
+		<domain format="radio_button">
+			<value>Shop All Rates</value><value> BCD Code</value><value>Rate Code</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Airline">
+		<domain format="selection_list">
+			<value>Select</value><value>AIR CANADA</value><value>AIR FRANCE</value><value>AMERICA WEST AIRLINES, INC.</value><value>AMERICAN AIRLINES, INC.</value><value>AMERICAN TRANS AIR</value><value>BRITISH AIRWAYS</value><value>CONTINENTAL AIRLINES</value><value>DELTA AIR LINES, INC.</value><value>LUFTHANSA GERMAN AIRLINES</value><value>MIDWEST EXPRESS AIRLINES, INC.</value><value>NORTHWEST AIRLINES, INC.</value><value>SOUTHWEST AIRLINES</value><value>SPIRIT</value><value>UNITED AIR LINES, INC.</value><value>US AIRWAYS</value><value>VANGUARD AIRLINES</value><value>VIRGIN ATLANTIC AIRWAYS LTD.</value><value>40-MILE AIR, LTD.</value><value>A/S NORVING</value><value>AARON AIRLINES PTY. LTD.</value><value>ABERDEEN AIRWAYS LTD.</value><value>ACES</value><value>ACTION AIRLINES</value><value>ADA AIR</value><value>ADRIA AIRWAYS</value><value>ADVANTAGE AIRLINES</value><value>AER ARANN</value><value>AER LINGUS P.L.C.</value><value>AERO CALIFORNIA</value><value>AERO CARIBE</value><value>AERO COSTA RICA ACORI, S.A.</value><value>AERO DYNAMICS, INC.</value><value>AERO TRASPORTI ITALIANI</value><value>AEROFLOT-SOVIET AIRLINES</value><value>AEROLINEAS ARGENTINAS</value><value>AEROLINEAS DOMINICANAS S.A. -</value><value>AEROLITORAL-SERVICIOS AEREOS L</value><value>AEROMAR, C. POR A.</value><value>AEROMEXICO - AEROVIAS DE MEXIC</value><value>AEROMONTERREY, S.A. DE C.V.</value><value>AERONAVES DEL PERU S.A.</value><value>AEROPELICAN AIR SERVICES, PTY.</value><value>AEROPERLAS</value><value>AEROPERU</value><value>AEROPOSTAL</value><value>AEROPUMA, S.A.</value><value>AEROQUETZAL</value><value>AEROVIAS, S.A.</value><value>AIGLE AZUR</value><value>AIR AFRIQUE</value><value>AIR ALGERIE</value><value>AIR ALLIANCE</value><value>AIR ALMA INC.</value><value>AIR ALPHA, INC.</value><value>AIR ARUBA</value><value>AIR ATLANTIC LTD.</value><value>AIR ATLANTIQUE</value><value>AIR AURORA, INC.</value><value>AIR AUSTRAL</value><value>AIR BAFFIN LTD.</value><value>AIR BELGIUM</value><value>AIR BOTSWANA PTY. LTD.</value><value>AIR BURKINA</value><value>AIR BURUNDI</value><value>AIR CALEDONIE</value><value>AIR CALEDONIE INTERNATIONAL</value><value>AIR CARAIBES (DOMINICA) LIMITE</value><value>AIR CARIBBEAN</value><value>AIR CHATHAMS</value><value>AIR CHINA</value><value>AIR COMORES</value><value>AIR CORBIERE</value><value>AIR CREEBEC INC.</value><value>AIR DOLOMITI S.P.A.</value><value>AIR ENGIADINA</value><value>AIR EXEL (UK) LTD.</value><value>AIR EXEL NL</value><value>AIR EXPRESS I NORRKOPING AB</value><value>AIR FACILITIES</value><value>AIR GABON</value><value>AIR GAMBIA</value><value>AIR GUADELOUPE</value><value>AIR GUINEE</value><value>AIR HUDIK</value><value>AIR INDIA</value><value>AIR INTER</value><value>AIR INUIT (1985) LTD.</value><value>AIR IVOIRE</value><value>AIR JAMAICA LIMITED</value><value>AIR KANGAROO ISLAND</value><value>AIR KORYO</value><value>AIR LA</value><value>AIR LAURENTIAN</value><value>AIR LIBERTE</value><value>AIR LITHUANIA</value><value>AIR LITTORAL</value><value>AIR MADAGASCAR</value><value>AIR MALAWI</value><value>AIR MALTA COMPANY LTD -AIR MAL</value><value>AIR MANITOBA</value><value>AIR MARGARITA, C.A.</value><value>AIR MARSHALL ISLANDS</value><value>AIR MAURITANIE</value><value>AIR MAURITIUS</value><value>AIR METRO NORTH, S.A.</value><value>AIR MIDWEST</value><value>AIR MOLDOVA</value><value>AIR MOLOKAI, INC.</value><value>AIR MOOREA</value><value>AIR NAMIBIA</value><value>AIR NAURU</value><value>AIR NEVADA</value><value>AIR NEW ZEALAND</value><value>AIR NIPPON CO. LTD.</value><value>AIR NIUGINI</value><value>AIR NORDIC SWEDEN</value><value>AIR NORTH</value><value>AIR NORTH INTERNATIONAL LTD.</value><value>AIR NOVA INC.</value><value>AIR PACIFIC LIMITED</value><value>AIR RAROTONGA</value><value>AIR RWANDA</value><value>AIR SASK AVIATION 1991</value><value>AIR SATELLITE, INC.</value><value>AIR SEDONA</value><value>AIR SENEGAL</value><value>AIR SEYCHELLES LTD.</value><value>AIR SINAI</value><value>AIR ST.-BARTHELEMY</value><value>AIR STORD A/S</value><value>AIR SUNSHINE INC.</value><value>AIR TAHITI</value><value>AIR TANZANIA CORPORATION</value><value>AIR TRAN</value><value>AIR TRANSPORT PYRENEES</value><value>AIR TUNGARU CORPORATION</value><value>AIR UKRAINE</value><value>AIR UKRAINE INTERNATIONAL</value><value>AIR VANUATU (OPERATIONS) LIMIT</value><value>AIR VEGAS, INC.</value><value>AIR VITKOVICE</value><value>AIR WEST AIRLINES</value><value>AIR WISCONSIN</value><value>AIR ZAIRE</value><value>AIR ZIMBABWE</value><value>AIRBC, LTD.</value><value>AIRBORNE OF SWEDEN AB</value><value>AIRCRAFT SERVICES GROUP, INC.</value><value>AIRES</value><value>AIRKENYA AVIATION LIMITED</value><value>AIRLANKA LTD.</value><value>AIRLINES OF TASMANIA</value><value>AIRLINK AIRLINE (PTY) LTD.</value><value>AIRLINK PTY. LTD.</value><value>AIRMIDLANDS</value><value>AIRSPEED AVIATION INC.</value><value>AIRVANTAGE INC.</value><value>AIRWAYS INTERNATIONAL, INC.</value><value>AKLAK AIR LTD.</value><value>ALAS DE TRANSPORTE INTERNACION</value><value>ALASKA AIRLINES</value><value>ALASKA ISLAND AIR, INC.</value><value>ALBANIAN AIRLINES</value><value>ALIADRIATICA</value><value>ALITALIA</value><value>ALKAN AIR LTD.</value><value>ALL NIPPON AIRWAYS CO., LTD.</value><value>ALLIANCE AIR, INC.</value><value>ALLIANCE AIRLINES</value><value>ALM-ANTILLEAN AIRLINES</value><value>ALOHA AIRLINES INC.</value><value>ALOHA ISLANDAIR, INC.</value><value>ALPHA AIR</value><value>ALPINE AVIATION, INC.</value><value>ALSAIR S.A.</value><value>ALSAVIA</value><value>ALYEMDA-DEMOCRATIC YEMEN AIRLI</value><value>AMERICANA DE AVIACION</value><value>ANSETT AUSTRALIA</value><value>ANSETT EXPRESS</value><value>ANSETT NEW ZEALAND</value><value>ANSETT W.A.</value><value>AOM FRENCH AIRLINES</value><value>APA INTERNATIONAL AIR, S.A.</value><value>AQUATIC AIRWAYS PTY. LTD.</value><value>ARCTIC CIRCLE AIR</value><value>ARCUS AIR LOGISTIC</value><value>ARIANA AFGHAN AIRLINES</value><value>ARIZONA PACIFIC AIRLINE, INC.</value><value>ARKIA ISRAELI AIRLINES LTD.</value><value>ARROW AIR INC.</value><value>ASIANA AIRLINES</value><value>ATHABASKA AIRWAYS LTD.</value><value>ATLANTIC AIR BVI LTD.</value><value>ATLANTIC AIRWAYS FAROE ISLANDS</value><value>ATLANTIC COAST AIRLINES</value><value>ATLANTIC SOUTHEAST AIRLINES, I</value><value>AUGUSTA AIRWAYS PTY. LTD.</value><value>AURIGNY AIR SERVICES LTD.</value><value>AUS-AIR</value><value>AUSTRAL LINEAS AEREAS</value><value>AUSTRALIA ASIA AIRLINES</value><value>AUSTRALIAN AIRLINES</value><value>AUSTRIAN AIR SERVICES G.M.B.H.</value><value>AUSTRIAN AIRLINES</value><value>AVENSA</value><value>AVIA AB</value><value>AVIACION DEL NOROESTE</value><value>AVIACO</value><value>AVIACSA-CONSORCIO AVIAXSA, SA</value><value>AVIAEXPRESS AIRLINES AND SERVI</value><value>AVIANCA</value><value>AVIANOVA</value><value>AVIATECA S.A.</value><value>AWOOD AIR LTD.</value><value>B. AIRWAYS, INC.</value><value>B.A.S.E. BUSINESS AIRLINES</value><value>BAHAMASAIR</value><value>BAKER AVIATION, INC.</value><value>BALKAN-BULGARIAN AIRLINES</value><value>BALTIA AIR LINES, INC.</value><value>BALTIC INTERNATIONAL AIRLINES</value><value>BANGKOK AIRWAYS</value><value>BANKAIR, INC.</value><value>BARROW AIR, INC.</value><value>BAXTER AVIATION</value><value>BEARSKIN LAKE AIR SERVICE LIMI</value><value>BELL-AIR</value><value>BELLAIR INC.</value><value>BEMIDJI AIRLINES</value><value>BERING AIR, INC.</value><value>BERLINER SPEZIAL FLUG</value><value>BIG SKY AIRLINES</value><value>BIMAN BANGLADESH</value><value>BIRMINGHAM EUROPEAN AIRWAYS</value><value>BLACKHAWK AIRWAYS, INC.</value><value>BOP AIR</value><value>BORINQUEN AIR</value><value>BOURAQ AIRLINES</value><value>BRAATHENS S.A.F.E. AIRTRANSPOR</value><value>BRASIL CENTRAL LINHA AEREA REG</value><value>BRIT AIR</value><value>BRITANNIA AIRWAYS LTD.</value><value>BRITISH EUROPEAN/JERSEY EUROPEAN AIRWAYS</value><value>BRITISH INTERNATIONAL HELICOPT</value><value>BRITISH MIDLAND</value><value>BRYMON EUROPEAN</value><value>BURLINGTON AIR EXPRESS</value><value>BUSINESS AIR LIMITED</value><value>BUSINESS EXPRESS</value><value>BUZZ/KLM UK</value><value>BWIA INTERNATIONAL</value><value>C.A.A.A.-AIR MARTINIQUE</value><value>CALM AIR INTERNATIONAL LTD.</value><value>CAMAI AIR</value><value>CAMEROON AIRLINES</value><value>CANADIAN AIRLINES INTERNATIONA</value><value>CANADIAN EAGLE AIRLINES LTD.</value><value>CAPE AIR</value><value>CAPE SMYTHE AIR SERVICE, INC.</value><value>CARNIVAL AIR LINES</value><value>CASINO EXPRESS AIRLINES</value><value>CATHAY PACIFIC AIRWAYS LTD.</value><value>CAYMAN AIRWAYS LTD.</value><value>CAYUGA AIR</value><value>CCAIR INC.</value><value>CENTRAL AMERICAN AIRLINES</value><value>CENTRAL MOUNTAIN AIR LTD.</value><value>CHALK'S INTERNATIONAL AIRLINES</value><value>CHARTER ONE</value><value>CHINA AIRLINES</value><value>CHINA EASTERN AIRLINES</value><value>CHINA GENERAL AVIATION CORP.</value><value>CHINA NORTHERN AIRLINES</value><value>CHINA NORTHWEST AIRLINES</value><value>CHINA SOUTHERN AIRLINES</value><value>CHINA SOUTHWEST AIRLINES</value><value>CHRISTMAN AIR SYSTEM</value><value>CIMBER AIR</value><value>COAST AIR K/S</value><value>COAST TO COAST AIRLINES</value><value>COASTAL AIR TRANSPORT</value><value>COHLMIA AVIATION</value><value>COLGAN AIR</value><value>COMAIR, INC.</value><value>COMMERCIAL AIRWAYS (PTY.)LTD.</value><value>COMPAGNIE CORSE MEDITERRANEE</value><value>COMPANIA AEREA DE VIAJE EXPRES</value><value>COMPANIA DE AVIACION FAUCETT</value><value>COMPASS AIRLINES</value><value>CONDOR FLUGDIENST GMBH</value><value>CONNECTAIR CHARTERS LTD.</value><value>CONQUEST AIRLINES CORP.</value><value>CONTACT AIR</value><value>CONTI-FLUG GMBH</value><value>COPA</value><value>CORONA LINE-SCANPOL LTD.</value><value>COUNTRY CONNECTION AIRLINES PT</value><value>CROATIA AIRLINES</value><value>CROSSAIR A.G.</value><value>CRUZEIRO DO SUL S.A.-SERVICOS</value><value>CUBANA AIRLINES</value><value>CYPRUS AIRWAYS</value><value>CYPRUS TURKISH AIRLINES LTD. C</value><value>CZECHOSLOVAK AIRLINES</value><value>DANAIR</value><value>DAN-AIR SERVICES LTD.</value><value>DEUTSCHE BA</value><value>DHL AIRWAYS, INC.</value><value>DIRECT AIR, INC.</value><value>DOMINICANA DE AVIACION</value><value>DORADO AIR, S.A.</value><value>DRAGONAIR - HONG KONG DRAGON A</value><value>DRUK-AIR</value><value>DYNAMIC AIR</value><value>EAST WEST AIRLINES</value><value>EASTERN AIR LINES, INC.</value><value>EASTERN AUSTRALIA AIRLINES</value><value>EASTERN PACIFIC AIRLINES</value><value>EASTLAND AIR</value><value>EASTWEST AIRLINES</value><value>ECUATO GUINEANA DE AVIACION</value><value>EGYPTAIR</value><value>EL AL ISRAEL AIRLINES LTD.</value><value>ELIAMBASSADOR S.P.A.</value><value>EMERY WORLDWIDE</value><value>EMIRATES AIR SERVICES</value><value>EMIRATES AIRLINES</value><value>EMPIRE AIRLINES</value><value>EMPRESA ECUATORIANA DE AVIACIO</value><value>EQUATOR AIRLINES LTD.</value><value>EQUATORIAL-INT'L AIRLINES OF S</value><value>ERA AVIATION</value><value>ESTONIAN AIR</value><value>ETHIOPIAN AIRLINES</value><value>EURALAIR INTERNATIONAL</value><value>EUROBERLIN FRANCE</value><value>EUROFLIGHT SWEDEN AB</value><value>EUROPE AERO SERVICE</value><value>EVA AIRWAYS CORPORATION</value><value>EVERGREEN ALASKA</value><value>EXCEL AIRWAYS</value><value>EXECUTIVE AIR CHARTER</value><value>EXPRESS AIRLINES I, INC.</value><value>EXPRESSO AEREO</value><value>FAR EASTERN AIR TRANSPORT CORP</value><value>FEDERAL EXPRESS</value><value>FIJI AIR</value><value>FINNAIR</value><value>FINNAVIATION</value><value>FIRST AIR</value><value>FIRST EUROPEAN AIRWAYS LTD.</value><value>FLAGSHIP AIRLINES, INC.</value><value>FLAGSHIP EXPRESS SERVICES, INC</value><value>FLAMENCO AIRWAYS, INC.</value><value>FLANDRE AIR AIRLINE</value><value>FLEXAIR</value><value>FLIGHT WEST AIRLINES</value><value>FLITESTAR</value><value>FLUGFELAG AUSTURLANDS HF.</value><value>FREEDOM AIR</value><value>FRONTIER</value><value>FRONTIER FLYING SERVICE</value><value>GAMAIR LTD.</value><value>GAMBIA AIRWAYS</value><value>GARUDA INDONESIA</value><value>GB AIRWAYS LTD.</value><value>GHANA AIRWAYS</value><value>GILL AVIATION LTD.</value><value>GOLDEN AIR COMMUTER AB</value><value>GOLDFIELDS AIR SERVICES</value><value>GP EXPRESS AIRLINES, INC.</value><value>GRAND AIRWAYS, INC.</value><value>GRAND CANYON AIRLINES, INC.</value><value>GREAT BARRIER AIRLINES LTD.</value><value>GREAT CHINA AIRLINES</value><value>GREAT LAKES AVIATION, LTD.</value><value>GREENLANDAIR INC.</value><value>GULF AIR COMPANY</value><value>GULFSTREAM INTERNATIONAL AIRLI</value><value>GUYANA AIRWAYS</value><value>HAGELAND AVIATION SERVICES, IN</value><value>HAINES AIRWAYS, INC.</value><value>HAITI NATIONAL AIRLINES (HANAI</value><value>HAITI TRANS AIR S.A.</value><value>HAMBURG AIRLINES GMBH &amp; CO. KG</value><value>HANNA'S AIR SALTSPRING</value><value>HARBOR AIR SERVICE</value><value>HARBOR AIRLINES, INC.</value><value>HAWAIIAN AIRLINES</value><value>HAZELTON AIRLINES</value><value>HELI-AIR-MONACO</value><value>HELICOPTER SHUTTLE</value><value>HELIFRANCE-COMPAGNIE AERIENNE</value><value>HELIJET AIRWAYS</value><value>HELIKOPTERSERVICE AB, EURO AIR</value><value>HELI-TRANSPORT</value><value>HEMUS AIR</value><value>HEX'AIR</value><value>HISPANIOLA AIRWAYS C. POR A.</value><value>HOLMSTROEM FLYG AB</value><value>HORIZON AIR</value><value>I.L.P.O. ARUBA CARGO N.V.</value><value>IBERIA</value><value>ICELANDAIR</value><value>ILIAMNA AIR TAXI, INC.</value><value>INDIAN AIRLINES</value><value>INDIAN OCEAN AIRLINES, LTD.</value><value>INTERCONTINENTAL DE AVIACION</value><value>INTEROT AIRWAYS</value><value>INTER-QUEBEC</value><value>INTOURTRANS</value><value>IPEC AVIATION</value><value>IRAN AIR-AIRLINE OF ISLAM. REP</value><value>IRAQI AIRWAYS</value><value>ISLAND AIR</value><value>ISLAND AIR</value><value>ISLAND AIRLINES, INC.</value><value>ISLAND EXPRESS</value><value>ISLANDER AIRWAYS</value><value>ISLANDS AVIATION</value><value>ISLENA AIRLINES</value><value>ISTANBUL AIRLINES</value><value>JAMAHIRIYA LIBYAN ARAB AIRLINE</value><value>JAPAN AIR COMMUTER CO., LTD.</value><value>JAPAN AIR SYSTEM</value><value>JAPAN AIRLINES</value><value>JAPAN ASIA AIRWAYS CO. LTD.</value><value>JERSEY EUROPEAN AIRWAYS/BRITISH EUROPEAN</value><value>JES AIR</value><value>JET AIRWAYS, INC.</value><value>JET BLUE</value><value>JET EXPRESS</value><value>JETALL</value><value>KAMPUCHEA AIRLINES</value><value>KAR-AIR</value><value>KENDELL AIRLINES</value><value>KENMORE AIR</value><value>KENN BOREK AIR LTD.</value><value>KENYA AIRWAYS</value><value>KETCHIKAN AIR SERVICE, INC.</value><value>KEY AIRLINES</value><value>KEYSTONE AIR SERVICE LTD.</value><value>KING ISLAND AIRLINES</value><value>KITTY HAWK AIRWAYS, INC.</value><value>KIWI INTERNATIONAL AIR LINES,</value><value>KLM-ROYAL DUTCH AIRLINES</value><value>KLM UK/BUZZ</value><value>KOREAN AIR</value><value>KOYUKON AIR, INC.</value><value>KUWAIT AIRWAYS</value><value>KYRNAIR</value><value>L.A.B. FLYING SERVICE, INC.</value><value>LABRADOR AIRWAYS, LTD.</value><value>LACSA</value><value>LADECO-LINEA AEREA DEL COBRE</value><value>LAKE UNION AIR SERVICE</value><value>LAKER AIRWAYS (BAHAMAS) LTD.</value><value>LAM-LINHAS AEREAS DE MOCAMBIQU</value><value>LAN CHILE S.A.</value><value>LAO AVIATION</value><value>LAP-LINEAS AEREAS PARAGUAYAS</value><value>LAR TRANSREGIONAL-LINHAS AEREA</value><value>LARRY'S FLYING SERVICE, INC.</value><value>LAS VEGAS AIRLINES</value><value>LATVIAN AIRLINES</value><value>LAUDA AIR</value><value>LESOTHO AIRWAYS CORP.</value><value>LETABA AIRWAYS</value><value>L'EXPRESS AIRLINES</value><value>LIAT (1974) LTD.</value><value>LINA-CONGO</value><value>LINCOLN AIRLINES PTY. LTD.</value><value>LINEAS AEREAS DEL ESTADO (LADE</value><value>LINEAS AEREAS PRIVADAS ARGENTI</value><value>LINJEFLYG</value><value>LINK AIRWAYS</value><value>LITHUANIAN AIRLINES</value><value>LLOYD AEREO BOLIVIANO</value><value>LOGANAIR LTD.</value><value>LOKEN AVIATION, INC.</value><value>LONE STAR AIRLINES</value><value>LONG ISLAND AIRLINES</value><value>LOT POLISH AIRLINES</value><value>LTU INTERNATIONAL AIRWAYS</value><value>LUFTHANSA CITYLINE GMBH</value><value>LUXAIR-LUXEMBOURG AIRLINES</value><value>MAERSK AIR</value><value>MAJESTIC AIRLINES, INC.</value><value>MAKUNG AIRLINES</value><value>MALAYSIA AIRLINES</value><value>MALEV-HUNGARIAN AIRLINES</value><value>MALITAS-MALI TINBOUCTOU AIR SE</value><value>MALMO AVIATION-CITY AIR SCANDI</value><value>MANDARIN AIRLINES LTD.</value><value>MANX AIRLINES</value><value>MARKAIR EXPRESS, INC.</value><value>MARKAIR, INC.</value><value>MARTINAIR HOLLAND</value><value>MAYA AIRWAYS</value><value>MELBOURNE REGIONAL AIRLINES PT</value><value>MERIDIANA</value><value>MERIDIANA AIR, S.A.</value><value>MERPATI NUSANTARA AIRLINES</value><value>MESA AIRLINES</value><value>MESABA AVIATION</value><value>METAVIA AIRLINES (PTY) LTD.</value><value>METROFLIGHT AIRLINES</value><value>MEXICANA DE AVIACION</value><value>MGM GRAND AIR, INC.</value><value>MIAT-MONGOLIAN AIRLINES</value><value>MIDDLE EAST AIRLINES</value><value>MIDWAY AIRLINE</value><value>MILNE BAY AIR PTY LIMITED</value><value>MISSIONARY AVIATION FELLOWSHIP</value><value>MOHAWK AIRLINES</value><value>MONARCH AIR</value><value>MONARCH AIRLINES</value><value>MOUNT COOK AIRLINES</value><value>MUK AIR</value><value>MYANMA AIRWAYS</value><value>NANTUCKET AIRLINES</value><value>NASKE-AIR</value><value>NATIONAIR</value><value>NATIONAL AIRLINES (PTY) LTD.</value><value>NECON AIR LTD.</value><value>NEPAL AIRWAYS PVT. LTD.</value><value>NEW ENGLAND AIRLINES, INC.</value><value>NEW YORK HELICOPTER CORPORATIO</value><value>NEWAIR</value><value>NFD LUFTVERKEHRS AG</value><value>NICARAGUENSE DE AVIACION S.A.</value><value>NIGERIA AIRWAYS LTD.</value><value>NIPPON CARGO AIRLINES</value><value>NLM-DUTCH AIRLINES</value><value>NORCANAIR</value><value>NORDESTE-LINHAS AEREAS REGIONA</value><value>NORLANDAIR</value><value>NORONTAIR</value><value>NORTH CROSS AIRWAYS AB</value><value>NORTHEAST EXPRESS REGIONAL AIR</value><value>NORTHERN COMMUTER AIRLINES</value><value>NORTHWEST TERRITORIAL AIRWAYS</value><value>NORTHWESTERN AIR LEASE</value><value>NORTH-WRIGHT AIR LTD.</value><value>NYGE-AERO</value><value>O'CONNOR AIRLINES</value><value>ODINAIR</value><value>OKADA AIR</value><value>OLSON AIR SERVICE, INC.</value><value>OLT-OSTFRIESISCHE LUFTTRANSPOR</value><value>OLYMPIC AIRWAYS</value><value>OLYMPIC AVIATION S.A.</value><value>OMAN AVIATION</value><value>ORBI AIRWAYS</value><value>OXLEY AIRLINES LTD.</value><value>OY AIR BOTNIA AB</value><value>P. T. MANDALA AIRLINES</value><value>PACIFIC AIRLINES</value><value>PACIFIC COAST AIRLINES</value><value>PACIFIC COASTAL AIRLINES LIMIT</value><value>PACIFIC ISLAND AVIATION, INC.</value><value>PAKISTAN INTERNATIONAL AIRLINE</value><value>PAN AMERICAN WORLD AIRWAYS, IN</value><value>PAPILLON AIRWAYS, INC.</value><value>PARADISE ISLAND AIRLINES</value><value>PELANGI AIR</value><value>PEM AIR LIMITED</value><value>PENINSULA AIRWAYS, INC.</value><value>PERIMETER AIRLINES (INLAND) LT</value><value>PHILIPPINE AIRLINES, INC.</value><value>PICCOLO AIRLINES</value><value>PLUNA</value><value>POLYNESIAN AIRLINES, LTD.</value><value>PORTUGALIA</value><value>PRAIRIE FLYING SERVICE (1976)</value><value>PRECISION AIRLINES</value><value>PROMAIR AUSTRALIA PTY. LTD.</value><value>PROTEUS</value><value>PROVINCIAL AIRLINES</value><value>PTARMIGAN AIRWAYS LTD.</value><value>QANTAS AIRWAYS LTD.</value><value>QWESTAIR</value><value>REDWING AIRWAYS, INC.</value><value>REEVE ALEUTIAN AIRWAYS</value><value>REGAL BAHAMAS INTERNATIONAL AI</value><value>REGION AIR PTE LTD.</value><value>REGIONAL AIR (PTY) LTD.</value><value>REGIONAL AIRLINES</value><value>RENO AIR, INC.</value><value>REPLACEMENT SERVICE CARRIER</value><value>RFG REGIONALFLUG GMBH</value><value>RHEINTAFLUG SEEWALD GESELLSCHA</value><value>RICHARDS AVIATION, INC.</value><value>RIO-SUL - SERVICOS AEREOS REGI</value><value>ROAD AIR LINES</value><value>ROCKY MOUNTAIN AIRWAYS</value><value>ROSS AVIATION, INC.</value><value>ROTTNEST AIRBUS</value><value>ROVER AIRWAYS</value><value>ROYAL AIR FORCE-38 TRANSPORT G</value><value>ROYAL AIR MAROC</value><value>ROYAL BRUNEI AIRLINES</value><value>ROYAL JORDANIAN</value><value>ROYAL NEPAL AIRLINES CORPORATI</value><value>ROYAL SWAZI NATIONAL AIRWAYS C</value><value>ROYAL TONGAN AIRLINES</value><value>RYAN AIR, INC.</value><value>RYANAIR</value><value>S.A.R. AVIONS TAXIS</value><value>SABAIR AIRLINES PTY. LTD.</value><value>SABENA BELGIAN WORLD AIRLINES</value><value>SABOURIN LAKE AIRWAYS LTD.</value><value>SAETA-SOCIEDAD ECUAT. DE TRANS</value><value>SAHSA</value><value>SALAIR, INC.</value><value>SAMOA AIR</value><value>SAN-SERVICIOS AEREOS NACIONALE</value><value>SARO-SERVICIOS AEREOS RUTAS OR</value><value>SAS-SCANDINAVIAN AIRLINES</value><value>SATA AIR ACORES</value><value>SATENA</value><value>SAUDI ARABIAN AIRLINES</value><value>SCENIC AIRLINES INC.</value><value>SCIBE-AIRLIFT</value><value>SEMPATI AIR</value><value>SERVICE AERIEN FRANCAIS</value><value>SERVICIO AEREO LEO LOPEZ</value><value>SERVICIOS AEREOS NACIONALES SA</value><value>SERVIVENSA</value><value>SHANGHAI AIRLINES</value><value>SHUSWAP AIR</value><value>SICHUAN AIRLINES</value><value>SIERRA NATIONAL AIRLINES</value><value>SILKAIR</value><value>SIMMONS AIRLINES</value><value>SIMPSON AIR LTD.</value><value>SINGAPORE AIRLINES</value><value>SKAGWAY AIR SERVICE, INC.</value><value>SKY ONE EXPRESS AIRLINES, INC.</value><value>SKY WEST AIRLINES</value><value>SKYCRAFT AIR TRANSPORT INC.</value><value>SKYMASTER</value><value>SKYPORT</value><value>SKYWEST AIRLINES</value><value>SKYWINGS AB</value><value>SLOV-AIR</value><value>SOCIEDAD AERONAUTICA MEDELLIN</value><value>SOLOMON AIRLINES</value><value>SOUTH AFRICAN AIRWAYS</value><value>SOUTHCENTRAL AIR, INC.</value><value>SOUTHEAST AIRLINES</value><value>SOUTHERN AIR LIMITED</value><value>SOUTHERN AIRLINES</value><value>SOUTHERN EXPRESS</value><value>SOUTHERN PACIFIC REGIONAL AIRL</value><value>SPURWING AIR</value><value>STATESWEST AIRLINES, INC.</value><value>STERLING AIRWAYS A/S</value><value>SUCKLING AIRWAYS</value><value>SUDAN AIRWAYS</value><value>SULTAN AIR</value><value>SUN COUNTRY AIRLINES, INC.</value><value>SUN-AIR OF SCANDINAVIA A/S</value><value>SUNAIRE</value><value>SUNFLOWER AIRLINES LIMITED</value><value>SUNSHINE AVIATION</value><value>SUNSTATE AIRLINES</value><value>SURINAM AIRWAYS LTD.</value><value>SWEDAIR AB</value><value>SWISSAIR</value><value>SYRIAN ARAB AIRLINES</value><value>TAAG - ANGOLA AIRLINES</value><value>TACA INTERNATIONAL AIRLINES, S</value><value>TACV-CABO VERDE AIRLINES</value><value>TAESA-TRANSPORTES AEREOS EJECU</value><value>TAIWAN AIRLINES COMPANY LTD.</value><value>TALAIR PTY. LTD.</value><value>TAMAIR</value><value>TAME C.A.</value><value>TANANA AIR SERVICE</value><value>TAP AIR PORTUGAL</value><value>TAQUAN AIR SERVICE, INC.</value><value>TAROM-ROMANIAN AIR TRANSPORT</value><value>TAS AIRWAYS S.P.A.</value><value>TAT EUROPEAN AIRLINES</value><value>TATONDUK FLYING SERVICE</value><value>TATRA AIR</value><value>TEDDY AIR A/S</value><value>THAI AIRWAYS INTERNATIONAL, LT</value><value>THERON AIRWAYS</value><value>TIME AIR SWEDEN</value><value>TNT SAVA S/A</value><value>TOWER AIR, INC.</value><value>TRANS AIR CAMBODIA</value><value>TRANS COTE INC.</value><value>TRANS DOMINICAN AIRWAYS (TRADO</value><value>TRANS NORTH AVIATION, LTD.</value><value>TRANS STATES AIRLINES, INC.</value><value>TRANS WORLD AIRLINES, INC.</value><value>TRANSAERO AIRLINES</value><value>TRANSASIA AIRWAYS</value><value>TRANSAVIA AIRLINES</value><value>TRANSBRASIL S/A LINHAS AEREAS</value><value>TRANS-JAMAICAN AIRLINES LTD.</value><value>TRANSKEI AIRWAYS CORPORATION</value><value>TRANSPORT AIR CENTRE</value><value>TRANSPORTES AEREO REGIONAIS S.</value><value>TRANSPORTES AEREOS DA GUINE-BI</value><value>TRANSPORTES AEROMAR, S.A. DE C</value><value>TRANS-PROVINCIAL AIRLINES LTD.</value><value>TRANSWEDE AIRWAYS AB</value><value>TRAVELAIR</value><value>TROPIC AIR</value><value>TROPICAL SEA AIR CO. LTD.</value><value>TUNINTER</value><value>TUNIS AIR</value><value>TURK HAVA TASIMACILIGI</value><value>TURK HAVA YOLLARI</value><value>TURKS AND CAICOS NATIONAL AIRL</value><value>TURQUOISE AIRWAYS LTD.</value><value>TURTLE AIRWAYS LTD</value><value>TWENTE AIRLINES</value><value>TYEE AIRWAYS LIMITED</value><value>TYROLEAN AIRWAYS</value><value>U.T.A.-UNION DE TRANSPORTS AER</value><value>UGANDA AIRLINES</value><value>ULTRAIR</value><value>UNITED PARCEL SERVICE CO.</value><value>UZBEKISTAN AIRWAYS</value><value>VARIG, S.A.</value><value>VASP</value><value>VAYUDOOT</value><value>VIASA</value><value>VIEQUES AIR LINK, INC.</value><value>VIETNAM AIRLINES</value><value>VIRGIN AIR, INC.</value><value>VIVA AIR</value><value>VOYAGEUR AIRWAYS</value><value>WAGLISLA AIR INC.</value><value>WAIRARAPA AIRLINES, LTD.</value><value>WALKER'S INTERNATIONAL</value><value>WARBELOW'S AIR VENTURES, INC.</value><value>WATERWINGS AIRWAYS (TE ANAU) L</value><value>WEST AIR SWEDEN AB</value><value>WEST ISLE AIR, INC.</value><value>WEST JET AIRLINES</value><value>WESTAIR AIRLINES</value><value>WESTATES AIRLINES</value><value>WESTERN AIRLINES</value><value>WESTERN NSW AIRLINES PTY. LTD.</value><value>WHYALLA AIRLINES PTY. LTD.</value><value>WIDEROE NORSK AIR</value><value>WIDEROES FLYVESELSKAP</value><value>WILDERNESS AIRLINE (1975) LTD.</value><value>WINDWARD ISLAND AIRWAYS INT'L.</value><value>WINGS OF ALASKA</value><value>WINGS WEST AIRLINES, INC.</value><value>WRA, INC.</value><value>WRIGHT AIR SERVICE, INC.</value><value>XIAMEN AIRLINES</value><value>XINJIANG AIRLINES</value><value>YANDA AIRLINES</value><value>YEMENIA YEMEN AIRWAYS</value><value>YUGOSLAV AIRLINES (JAT)</value><value>YUNNAN AIRLINES</value><value>YUTANA AIRLINES</value><value>YUTE AIR ALASKA, INC.</value><value>ZAMBIA AIRWAYS</value><value>ZAS AIRLINE OF EGYPT</value><value>ZEPHYR</value><value>ZULIANA DE AVIACION C.A.</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Flight Number">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="">
+		<domain format="check_box">
+		<value>Check here if you are not flying in when picking up your rental car</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://cheapfares.com" interurl="http://cheapfares.com/cars.htm">
+<srcname>CheapFares.com Car Rental</srcname>
+<form>
+<attrgroup>
+	<attr name="Where do you want to pick up your car?" ename="where pick up">
+		<domain format="selection_list">
+		<value>At an airport</value>
+		<value>Near a place</value>
+		<value>Near a US address</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up airport or city name (e.g. DEN, or Denver): " ename="pick up airport or city name">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up date: (MM/DD/YY)" ename="pick up date">
+		<domain format="text_box">
+		</domain>
+		<domain format="selection_list">
+			<value>12:00 midnight</value><value>1:00 AM</value><value>2:00 AM</value><value>3:00 AM</value><value>4:00 AM</value><value>5:00 AM</value><value>6:00 AM</value><value>7:00 AM</value><value>8:00 AM</value><value>9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 noon</value><value>1:00 PM</value><value>2:00 PM</value><value>3:00 PM</value><value>4:00 PM</value><value>5:00 PM</value><value>6:00 PM</value><value>7:00 PM</value><value>8:00 PM</value><value>9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off date: (MM/DD/YY)" ename="drop off date">
+		<domain format="text_box">
+		</domain>
+		<domain format="selection_list">
+			<value>12:00 midnight</value><value>1:00 AM</value><value>2:00 AM</value><value>3:00 AM</value><value>4:00 AM</value><value>5:00 AM</value><value>6:00 AM</value><value>7:00 AM</value><value>8:00 AM</value><value>9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 noon</value><value>1:00 PM</value><value>2:00 PM</value><value>3:00 PM</value><value>4:00 PM</value><value>5:00 PM</value><value>6:00 PM</value><value>7:00 PM</value><value>8:00 PM</value><value>9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car class">
+		<domain format="selection_list">
+			<value>No Preference</value><value>Economy</value><value>Compact</value><value>Midsize</value><value>Standard</value><value>Full Size</value><value>Premium</value><value>Luxury</value><value>Convertible</value><value>Mini-van</value><value>Sport Utility Vehicle</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Do you have a discount code? " ename="discount code">
+		<domain format="selection_list">
+			<value>None</value>
+			<value>Corporate or Contracted Rate (Code required)</value>
+			<value>Special or Advertised Rate (Code required)</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Rental car company">
+		<domain format="selection_list">
+			<value>Expedia Picks</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.dollar.com/" interurl="http://www.dollar.com/">
+<srcname>Dollar.com</srcname>
+<form>
+<attrgroup>
+	<attr name="Pick up location">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Return location">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick up date">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value><value>2005</value><value>2006</value><value>2007</value><value>2008</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="return date">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value><value>2005</value><value>2006</value><value>2007</value><value>2008</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick up time">
+			<domain format="selection_list">
+				<value>12AM</value><value>1 AM</value><value>2 AM</value><value>3 AM</value><value>4 AM</value><value>5 AM</value><value>6 AM</value><value>7 AM</value><value>8 AM</value><value>9 AM</value><value>10 AM</value><value>11 AM</value><value>12 PM</value><value>1 PM</value><value>2 PM</value><value>3 PM</value><value>4 PM</value><value>5 PM</value><value>6 PM</value><value>7 PM</value><value>8 PM</value><value>9 PM</value><value>10 PM</value><value>11 PM</value>
+			</domain>
+			<domain format="selection_list">
+				<value>:00</value><value>:15</value><value>:30</value><value>:45</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Return time">
+			<domain format="selection_list">
+				<value>12AM</value><value>1 AM</value><value>2 AM</value><value>3 AM</value><value>4 AM</value><value>5 AM</value><value>6 AM</value><value>7 AM</value><value>8 AM</value><value>9 AM</value><value>10 AM</value><value>11 AM</value><value>12 PM</value><value>1 PM</value><value>2 PM</value><value>3 PM</value><value>4 PM</value><value>5 PM</value><value>6 PM</value><value>7 PM</value><value>8 PM</value><value>9 PM</value><value>10 PM</value><value>11 PM</value>
+			</domain>
+			<domain format="selection_list">
+				<value>:00</value><value>:15</value><value>:30</value><value>:45</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Type">
+		<domain format="selection_list">
+			<value>Economy</value><value>Compact</value><value>Intermediate</value><value>Full Size</value><value>Premium</value><value>Luxury</value><value>Convertible</value><value>Minivan</value><value>SUV Compact</value><value>SUV Intermediate</value><value>SUV Standard</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Promo  Code">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="CD  Number">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Airlines" ename="airline">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name=" Flight  Number">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.e-vacations.com"  interurl="http://www.e-vacations.com/cgi-bin/evacation/standalone/check_single.jsp?region=Europe&amp;path=design&amp;type=3&amp;BV_UseBVCookie=no">
+<srcname>E-Vacation.com</srcname>
+<form name="Car Pick Up">
+<attrgroup>
+	<attr name="pick up Country">
+		<domain format="selection_list">
+			<error> cannot get source code</error>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="pick up City">
+		<domain format="selection_list">
+			<error> cannot get source code</error>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick Up Location">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pickup Date (MM/DD/YYYY)" ename="pickup date">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pickup Time" ename="pickup time">
+		<domain format="selection_list">
+		</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="drop off Country">
+		<domain format="selection_list">
+			<error> cannot get source code</error>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="drop off City">
+		<domain format="selection_list">
+			<error> cannot get source code</error>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop off Location">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="dropoff Date (MM/DD/YYYY)" ename="dropoff date">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="dropoff Time" ename="dropoff time">
+		<domain format="selection_list">
+		</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="Transmission type">
+		<domain format="selection_list">
+			<value> No Preference </value><value>Automatic Manual"</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Air Conditioning" ename="air conditioning">
+		<domain format="selection_list">
+			<value> No Preference</value><value> Air Conditioning</value><value> No Air Conditioning </value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Category">
+		<domain format="selection_list">
+			<value> Show All</value><value> Economy</value><value> Compact </value><value>Intermediate</value><value>Standard</value><value>Full size</value><value>Premium</value><value>Luxury</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+
+<source url="http://www.expedia.com" interurl="http://www.expedia.com/pub/agent.dll?qscr=carw&amp;flag=f&amp;rfrr=-361&amp;&amp;zz=1054846008178&amp;">
+<srcname>Expedia.com</srcname>
+<form>
+<attrgroup>
+	<attr name="Where do you want to pick up your car?" ename="where pick up">
+		<domain format="selection_list">
+		<value>At an airport</value>
+		<value>Near a place</value>
+		<value>Near a US address</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up airport or city name (e.g. DEN, or Denver): " ename="pick up airport or city name">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up date: (MM/DD/YY)" ename="pick up date">
+		<domain format="text_box">
+		</domain>
+		<domain format="selection_list">
+			<value>12:00 midnight</value><value>1:00 AM</value><value>2:00 AM</value><value>3:00 AM</value><value>4:00 AM</value><value>5:00 AM</value><value>6:00 AM</value><value>7:00 AM</value><value>8:00 AM</value><value>9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 noon</value><value>1:00 PM</value><value>2:00 PM</value><value>3:00 PM</value><value>4:00 PM</value><value>5:00 PM</value><value>6:00 PM</value><value>7:00 PM</value><value>8:00 PM</value><value>9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off date: (MM/DD/YY)" ename="drop off date">
+		<domain format="text_box">
+		</domain>
+		<domain format="selection_list">
+			<value>12:00 midnight</value><value>1:00 AM</value><value>2:00 AM</value><value>3:00 AM</value><value>4:00 AM</value><value>5:00 AM</value><value>6:00 AM</value><value>7:00 AM</value><value>8:00 AM</value><value>9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 noon</value><value>1:00 PM</value><value>2:00 PM</value><value>3:00 PM</value><value>4:00 PM</value><value>5:00 PM</value><value>6:00 PM</value><value>7:00 PM</value><value>8:00 PM</value><value>9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car class">
+		<domain format="selection_list">
+			<value>No Preference</value><value>Economy</value><value>Compact</value><value>Midsize</value><value>Standard</value><value>Full Size</value><value>Premium</value><value>Luxury</value><value>Convertible</value><value>Mini-van</value><value>Sport Utility Vehicle</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Do you have a discount code? " ename="discount code">
+		<domain format="selection_list">
+			<value>None</value>
+			<value>Corporate or Contracted Rate (Code required)</value>
+			<value>Special or Advertised Rate (Code required)</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Rental car company">
+		<domain format="selection_list">
+			<value>Expedia Picks</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.foxrentacar.com/" interurl="http://www.foxrentacar.com/">
+<srcname>FoxRentACar.com</srcname>
+<form>
+<attrgroup>
+	<attr name="Pick-up City" ename="pick up city">
+		<domain format="selection_list">
+			<value>choose a location</value><value>Phoenix Airport</value><value>Los Angeles Airport</value><value>San Diego Airport</value><value>San Francisco Airport</value><value>San Jose Airport</value><value>Orange County Airport</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Return City">
+		<domain format="selection_list">
+			<value>choose a location</value><value>Phoenix Airport</value><value>Los Angeles Airport</value><value>San Diego Airport</value><value>San Francisco Airport</value><value>San Jose Airport</value><value>Orange County Airport</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up Date" ename="pick up date">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value><value>2005</value><value>2006</value><value>2007</value><value>2008</value><value>2009</value><value>2010</value><value>2011</value><value>201</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up Time" ename="pick up time">
+		<domain format="selection_list">
+			<value>7:00am</value><value>7:30am</value><value>8:00am</value><value>8:30am</value><value>9:00am</value><value>9:30am</value><value>10:00am</value><value>10:30am</value><value>11:00am</value><value>11:30am</value><value>12:00pm</value><value>12:30pm</value><value>1:00pm</value><value>1:30pm</value><value>2:00pm</value><value>2:30pm</value><value>3:00pm</value><value>3:30pm</value><value>4:00pm</value><value>4:30pm</value><value>5:00pm</value><value>5:30pm</value><value>6:00pm</value><value>6:30pm</value><value>7:00pm</value><value>7:30pm</value><value>8:00pm</value><value>8:30pm</value><value>9:00pm</value><value>9:30pm</value><value>10:00pm</value><value>10:30pm</value><value>11:00pm</value><value>11:30pm</value><value>12:00am</value><value>12:30am</value><value>1:00am</value><value>1:30am</value><value>2:00am</value><value>2:30am</value><value>3:00am</value><value>3:30am</value><value>4:00am</value><value>4:30am</value><value>5:00am</value><value>5:30am</value><value>6:00am</value><value>6:30am</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off Date" ename="drop off date">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value><value>2005</value><value>2006</value><value>2007</value><value>2008</value><value>2009</value><value>2010</value><value>2011</value><value>201</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off Time" ename="drop off time">
+		<domain format="selection_list">
+			<value>7:00am</value><value>7:30am</value><value>8:00am</value><value>8:30am</value><value>9:00am</value><value>9:30am</value><value>10:00am</value><value>10:30am</value><value>11:00am</value><value>11:30am</value><value>12:00pm</value><value>12:30pm</value><value>1:00pm</value><value>1:30pm</value><value>2:00pm</value><value>2:30pm</value><value>3:00pm</value><value>3:30pm</value><value>4:00pm</value><value>4:30pm</value><value>5:00pm</value><value>5:30pm</value><value>6:00pm</value><value>6:30pm</value><value>7:00pm</value><value>7:30pm</value><value>8:00pm</value><value>8:30pm</value><value>9:00pm</value><value>9:30pm</value><value>10:00pm</value><value>10:30pm</value><value>11:00pm</value><value>11:30pm</value><value>12:00am</value><value>12:30am</value><value>1:00am</value><value>1:30am</value><value>2:00am</value><value>2:30am</value><value>3:00am</value><value>3:30am</value><value>4:00am</value><value>4:30am</value><value>5:00am</value><value>5:30am</value><value>6:00am</value><value>6:30am</value>		
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="" interurl="">
+<srcname>France.com Car Rental</srcname>
+<error> source being remodeled</error>
+</source>
+
+<source url="http://www.hotwire.com"  interurl="http://www.hotwire.com/cars.jsp?sid=S21&amp;bid=B1045">
+<srcname>HotWire.com</srcname>
+<form>
+<attrgroup>
+	<attr name="Location">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up Date" ename="pick up date">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up Time" ename="pick up time">
+		<domain format="selection_list">
+			<value>7:00am</value><value>7:30am</value><value>8:00am</value><value>8:30am</value><value>9:00am</value><value>9:30am</value><value>10:00am</value><value>10:30am</value><value>11:00am</value><value>11:30am</value><value>12:00pm</value><value>12:30pm</value><value>1:00pm</value><value>1:30pm</value><value>2:00pm</value><value>2:30pm</value><value>3:00pm</value><value>3:30pm</value><value>4:00pm</value><value>4:30pm</value><value>5:00pm</value><value>5:30pm</value><value>6:00pm</value><value>6:30pm</value><value>7:00pm</value><value>7:30pm</value><value>8:00pm</value><value>8:30pm</value><value>9:00pm</value><value>9:30pm</value><value>10:00pm</value><value>10:30pm</value><value>11:00pm</value><value>11:30pm</value><value>12:00am</value><value>12:30am</value><value>1:00am</value><value>1:30am</value><value>2:00am</value><value>2:30am</value><value>3:00am</value><value>3:30am</value><value>4:00am</value><value>4:30am</value><value>5:00am</value><value>5:30am</value><value>6:00am</value><value>6:30am</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off Date" ename="drop off date">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off Time" ename="drop off time">
+		<domain format="selection_list">
+			<value>7:00am</value><value>7:30am</value><value>8:00am</value><value>8:30am</value><value>9:00am</value><value>9:30am</value><value>10:00am</value><value>10:30am</value><value>11:00am</value><value>11:30am</value><value>12:00pm</value><value>12:30pm</value><value>1:00pm</value><value>1:30pm</value><value>2:00pm</value><value>2:30pm</value><value>3:00pm</value><value>3:30pm</value><value>4:00pm</value><value>4:30pm</value><value>5:00pm</value><value>5:30pm</value><value>6:00pm</value><value>6:30pm</value><value>7:00pm</value><value>7:30pm</value><value>8:00pm</value><value>8:30pm</value><value>9:00pm</value><value>9:30pm</value><value>10:00pm</value><value>10:30pm</value><value>11:00pm</value><value>11:30pm</value><value>12:00am</value><value>12:30am</value><value>1:00am</value><value>1:30am</value><value>2:00am</value><value>2:30am</value><value>3:00am</value><value>3:30am</value><value>4:00am</value><value>4:30am</value><value>5:00am</value><value>5:30am</value><value>6:00am</value><value>6:30am</value>		
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+
+<source url="https://www.nationalcar.com/" interurl="https://www.nationalcar.com/servlet/IBE_LDART?SESSION_ID=544e16fa3b53287125e4cd5eb27c8d79^aabc95f326b6a021^209.50.123.28^dad17513cd">
+<srcname>National Car Rental</srcname>
+<form>
+<attrgroup>
+	<attr name="Country of Residence" ename="country">
+		<domain format="selection_list">
+			<value>None</value><value>AFGHANISTAN</value><value>ALBANIA</value><value>ALGERIA</value><value>AMERICAN SAMOA</value><value>ANDORRA</value><value>ANGOLA</value><value>ANGUILLA</value><value>ANTARCTICA</value><value>ANTIGUA AND BARBUDA</value><value>ARGENTINA</value><value>ARMENIA</value><value>ARUBA</value><value>AUSTRALIA</value><value>AUSTRIA</value><value>AZERBAIJAN</value><value>BAHAMAS</value><value>BAHRAIN</value><value>BANGLADESH</value><value>BARBADOS</value><value>BELARUS</value><value>BELGIUM</value><value>BELIZE</value><value>BENIN</value><value>BERMUDA</value><value>BHUTAN</value><value>BOLIVIA</value><value>BOSNIA AND HERZEGOVINA</value><value>BOTSWANA</value><value>BOUVET ISLAND</value><value>BRAZIL</value><value>BRITISH INDIAN OCEAN TERRITORY</value><value>BRUNEI DARUSSALAM</value><value>BULGARIA</value><value>BURKINA FASO</value><value>BURUNDI</value><value>CAMBODIA</value><value>CAMEROON</value><value>CANADA</value><value>CAPE VERDE</value><value>CAYMAN ISLANDS</value><value>CENTRAL AFRICAN REPUBLIC</value><value>CHAD</value><value>CHILE</value><value>CHINA (PRC)</value><value>CHRISTMAS ISLAND</value><value>COCOS (KEELING) ISLANDS</value><value>COLOMBIA</value><value>COMOROS</value><value>CONGO</value><value>CONGO DEMOCRATIC REPUBLIC OF</value><value>CONTRACT LEVEL DEFAULT</value><value>COOK ISLANDS</value><value>CORSICA (FRANCE)</value><value>COSTA RICA</value><value>COTE D'IVOIRE</value><value>CROATIA</value><value>CUBA</value><value>CYPRUS</value><value>CZECH REPUBLIC</value><value>DENMARK</value><value>DJIBOUTI</value><value>DOMINICA</value><value>DOMINICAN REPUBLIC</value><value>EAST TIMOR</value><value>ECUADOR</value><value>EGYPT</value><value>EL SALVADOR</value><value>EQUATORIAL GUINEA</value><value>ERITREA</value><value>ESTONIA</value><value>ETHIOPIA</value><value>EUROPEAN DEFAULT COUNTRY</value><value>FALKLAND ISLANDS (MALVINAS)</value><value>FAROE ISLANDS</value><value>FIJI</value><value>FINLAND</value><value>FRANCE</value><value>FRANCE, METROPOLITAN</value><value>FRENCH GUIANA</value><value>FRENCH POLYNESIA</value><value>FRENCH SOUTHERN TERRITORIES</value><value>GABON</value><value>GAMBIA</value><value>GEORGIA</value><value>GERMANY</value><value>GHANA</value><value>GIBRALTAR</value><value>GREECE</value><value>GREENLAND</value><value>GRENADA</value><value>GUADELOUPE</value><value>GUAM</value><value>GUATEMALA</value><value>GUINEA</value><value>GUINEA-BISSAU</value><value>GUYANA</value><value>HAITI</value><value>HEARD AND MCDONALD ISLANDS</value><value>HONDURAS</value><value>HONG KONG</value><value>HUNGARY</value><value>ICELAND</value><value>INDIA</value><value>INDONESIA</value><value>IRAN (ISLAMIC REPUBLIC OF)</value><value>IRAQ</value><value>IRELAND</value><value>ISRAEL</value><value>ITALY</value><value>JAMAICA</value><value>JAPAN</value><value>JORDAN</value><value>KAZAKHSTAN</value><value>KENYA</value><value>KIRIBATI</value><value>KOREA, DEMOCRATIC PPL'S REPUB</value><value>KOREA, REPUBLIC OF</value><value>KUWAIT</value><value>KYRGYZSTAN</value><value>LAO PPL'S DEMOCRATIC REPUB</value><value>LATVIA</value><value>LEBANON</value><value>LESOTHO</value><value>LIBERIA</value><value>LIBYAN ARAB JAMAHIRIYA</value><value>LIECHTENSTEIN</value><value>LITHUANIA</value><value>LUXEMBOURG</value><value>MACAU</value><value>MACEDONIA (FYROM) GDS STATION</value><value>MADAGASCAR</value><value>MALAWI</value><value>MALAYSIA</value><value>MALDIVES</value><value>MALI</value><value>MALTA</value><value>MARSHALL ISLANDS</value><value>MARTINIQUE</value><value>MAURITANIA</value><value>MAURITIUS</value><value>MAYOTTE</value><value>MEXICO</value><value>MICRONESIA</value><value>MOLDOVA, REPUBLIC OF</value><value>MONACO</value><value>MONGOLIA</value><value>MONTSERRAT</value><value>MOROCCO</value><value>MOZAMBIQUE</value><value>MYANMAR</value><value>NAMIBIA</value><value>NAURU</value><value>NEPAL</value><value>NETHERLANDS</value><value>NETHERLANDS ANTILLES</value><value>NEW CALEDONIA</value><value>NEW ZEALAND</value><value>NICARAGUA</value><value>NIGER</value><value>NIGERIA</value><value>NIUE</value><value>NORFOLK ISLAND</value><value>NORTHERN MARIANA ISLANDS</value><value>NORWAY</value><value>OMAN</value><value>PAKISTAN</value><value>PALAU</value><value>PANAMA</value><value>PAPUA NEW GUINEA</value><value>PARAGUAY</value><value>PERU</value><value>PHILIPPINES</value><value>PITCAIRN</value><value>POLAND</value><value>PORTUGAL</value><value>PUERTO RICO</value><value>QATAR</value><value>REUNION</value><value>ROMANIA</value><value>RUSSIAN FEDERATION</value><value>RWANDA</value><value>S. GEORGIA &amp; S. SANDWICH ISL</value><value>SAINT KITTS AND NEVIS</value><value>SAINT LUCIA</value><value>SAMOA</value><value>SAN MARINO</value><value>SAO TOME AND PRINCIPE</value><value>SAUDI ARABIA</value><value>SENEGAL</value><value>SEYCHELLES</value><value>SIERRA LEONE</value><value>SINGAPORE</value><value>SLOVAKIA</value><value>SLOVENIA</value><value>SOLOMON ISLANDS</value><value>SOMALIA</value><value>SOUTH AFRICA</value><value>SPAIN</value><value>SRI LANKA</value><value>ST. HELENA</value><value>ST. PIERRE AND MIQUELON</value><value>ST. VINCENT AND THE GRENADINES</value><value>SUDAN</value><value>SURINAME</value><value>SVALBARD AND JAN MAYEN ISLANDS</value><value>SWAZILAND</value><value>SWEDEN</value><value>SWITZERLAND</value><value>SYRIAN ARAB REPUBLIC</value><value>TAIWAN, REPUBLIC OF CHINA</value><value>TAJIKISTAN</value><value>TANZANIA, UNITED REPUBLIC OF</value><value>THAILAND</value><value>TOGO</value><value>TOKELAU</value><value>TONGA</value><value>TRINIDAD AND TOBAGO</value><value>TUNISIA</value><value>TURKEY</value><value>TURKMENISTAN</value><value>TURKS AND CAICOS ISLANDS</value><value>TUVALU</value><value>UGANDA</value><value>UKRAINE</value><value>UNITED ARAB EMIRATES</value><value>UNITED KINGDOM</value><value>UNITED STATES</value><value>URUGUAY</value><value>US MINOR OUTLYING ISLANDS</value><value>UZBEKISTAN</value><value>VANUATU</value><value>VATICAN CITY STATE</value><value>VENEZUELA</value><value>VIET NAM</value><value>VIRGIN ISLANDS (BRITISH)</value><value>VIRGIN ISLANDS (US)</value><value>WALLIS AND FUTUNA ISLANDS</value><value>WESTERN SAHARA</value><value>YEMEN</value><value>YUGOSLAVIA</value><value>ZAIRE</value><value>ZAMBIA</value><value>ZIMBABWE</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Rental Location:">
+		<domain format="text_box">
+		</domain>
+		<additional>Airport / Station Code</additional>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick up Date:" ename="pick up date">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick up Time">
+			<domain label="Hour" format="selection_list">
+				<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value>
+			</domain>
+			<domain name="Minute" format="selection_list">
+				<value>00</value><value>15</value><value>30</value><value>45</value>
+			</domain>
+			<domain format="selection_list">
+				<value>AM</value><value>PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Return  Location">
+		<domain format="text_box">
+		</domain>
+		<additional>Airport / Station Code</additional>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Return  Date">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Return  Time">
+			<domain label="Hour" format="selection_list">
+				<value>1</value><value>2</value><value>3</value><value>4</value><value>5</value><value>6</value><value>7</value><value>8</value><value>9</value><value>10</value><value>11</value><value>12</value>
+			</domain>
+			<domain label="minute" format="selection_list">
+				<value>00</value><value>15</value><value>30</value><value>45</value>
+			</domain>
+			<domain format="selection_list">
+				<value>AM</value><value>PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+		<attr name="Airline">
+			<domain format="selection_list">
+				<value>None</value><value>A B AIRLINES</value><value>ADA AIR</value><value>ADI DOMESTIC AIRLINES</value><value>ADRIA AIRWAYS-AIRLINE OF SLOVENIA</value><value>AER ARANN EXPRESS</value><value>AER LINGUS LIMITED</value><value>AERDINEAS CENTRALES DE COLUMBIA</value><value>AERO CALIFORNIA</value><value>AERO COSTA RICA</value><value>AERO LLOYD</value><value>AERO ZAMBIA</value><value>AEROEJECUTIVO S.A. DE C.V.</value><value>AEROFLOT-RUSSIAN INTL AIRLINES</value><value>AEROLINEAS ARGENTINAS</value><value>AEROMAR</value><value>AEROMEXICO</value><value>AEROMEXPRESS S.A. DE C.V.</value><value>AEROPERU - EMPRESA DE TRANSPORTES</value><value>AEROPOSTAL</value><value>AEROSWEET</value><value>AEROVIAS VENEZOLANAS, S.A.</value><value>AFRICAN INTERCONTINENTAL AIRWAYS</value><value>AFRICAN JOINT AIR SERVICES</value><value>AIGLE AZUR</value><value>AIR 2000 LTD.</value><value>AIR AFRIQUE</value><value>AIR ALGERIE</value><value>AIR ALLIANCE, INC</value><value>AIR ATLANTA ICELANDIC</value><value>AIR ATLANTIC DOMINICANA</value><value>AIR AUSTRAL</value><value>AIR BALTIC CORPORATION S/A</value><value>AIR BERLIN BMBTT &amp; CO LUFTVERKEHR</value><value>AIR BOSNIA</value><value>AIR BOTSWANA CORPORATION</value><value>AIR CALEDONIE</value><value>AIR CALEDONIE INTERNATIONAL</value><value>AIR CANADA</value><value>AIR CARRIBBEAN</value><value>AIR CHARTER AISA</value><value>AIR CHATHAMS</value><value>AIR CHINA INTERNATIONAL CORPORATION</value><value>AIR CREEBEC</value><value>AIR DOLOMITI S.P.A. AEEREE REGION </value><value>AIR ENGIADINA</value><value>AIR ENTERPRISE PULKOVO</value><value>AIR EUROPA LINEAS AEREAS, S.A.</value><value>AIR EUROPE S.P.A.</value><value>AIR EXEL NETH'LANDS BV DBA KLM EXEL</value><value>AIR EXPRESS</value><value>AIR FIJI LTD</value><value>AIR FOYLE LTD/GRANT AVIATION, INC</value><value>AIR FRANCE</value><value>AIR GABON</value><value>AIR GEORGIA</value><value>AIR GREECE</value><value>AIR ICELAND</value><value>AIR JAMAICA</value><value>AIR JAMAICA EXPRESS LIMITED</value><value>AIR JET</value><value>AIR KAZAKSTAN</value><value>AIR KORYO</value><value>AIR LA</value><value>AIR LESOTHO (PTY) LTD.</value><value>AIR LIBERTE</value><value>AIR LIBERTE</value><value>AIR LITHUANIA</value><value>AIR LITTORAL</value><value>AIR MACAU COMPANY LIMITED</value><value>AIR MADAGASCAR</value><value>AIR MALAWI LIMITED</value><value>AIR MALDIVES LIMITED</value><value>AIR MALTA</value><value>AIR MARSHALL ISLANDS, INC.</value><value>AIR MAURITIUS</value><value>AIR MOBILITY COMMAND</value><value>AIR MOLDOVA INTERNATIONAL S.A.</value><value>AIR MOLDOVA INTL</value><value>AIR NAMIBIA</value><value>AIR NAURU</value><value>AIR NEVADA</value><value>AIR NEW GUINEA</value><value>AIR NEW ZEALAND LIMITED</value><value>AIR NIPPON CO. LTD.</value><value>AIR NIUGINI PTY LIMITED DBA</value><value>AIR NORMANDY</value><value>AIR NORTH</value><value>AIR NOSTRUM L.A.M.S.A.</value><value>AIR NOVA</value><value>AIR ONE</value><value>AIR OSTRAVA</value><value>AIR PACIFIC LTD.</value><value>AIR PHILIPPINES CORPORATION</value><value>AIR RWANDA</value><value>AIR SAN JUAN/CHARTAIR</value><value>AIR SASK AVIATION 1991</value><value>AIR SEYCHELLES LIMITED</value><value>AIR SHUNSHINE INC.</value><value>AIR SICILIA</value><value>AIR SINAI</value><value>AIR SLOVAKIA BWJ, LTD.</value><value>AIR SOFIA</value><value>AIR ST.THOMAS</value><value>AIR TAHITI</value><value>AIR TANZANIA CORPORATION</value><value>AIR TINDI LTD</value><value>AIR TOURS INT (AIH)</value><value>AIR TRANSAT</value><value>AIR TRUCK LINEAS AEREAS, SA</value><value>AIR UK LIMITED DBA KLM UK</value><value>AIR UKRAINE</value><value>AIR URGA</value><value>AIR VALLEE S.P.A./AIR VIRGINIA, INC</value><value>AIR VANUATU (OPERATIONS) LIMITED</value><value>AIR VIA BULGARIAN AIRWAYS</value><value>AIR WORLD AVIATION</value><value>AIR ZAIRE</value><value>AIR ZIMBABWE CORPORATION</value><value>AIR-INDIA LIMITED</value><value>AIRASIA SDN BHD</value><value>AIRCOMPANY AIRZENA GEORGIAN AIRLINE</value><value>AIRKENYA AVIATION LTD</value><value>AIRLANKA LIMITED</value><value>AIRLINAIR</value><value>AIRLINE PTY LTD</value><value>AIRLINES OF SOUTH AUSTRALIA</value><value>AIRTRAN AIRWAYS, INC</value><value>AKLAK</value><value>ALASKA AIRLINES INC.</value><value>ALASKA CENTRAL EXPRESS</value><value>ALBANIAN AIRLINES MAK S.H.P.K.</value><value>ALITALIA</value><value>ALITALIA - LINEE AEREE ITALIANE</value><value>ALITALIA EXPRESS</value><value>ALL NIPPON AIRWAYS CO. LTD.</value><value>ALLEGRO</value><value>ALLIANCE AIR </value><value>ALM 1997 AIRLINE INC.</value><value>ALOHA AIRLINES INC.</value><value>ALPI EAGLES S.P.A.</value><value>ALPINE AVIATION, INC.</value><value>AMERICA WEST AIRLINES INC.</value><value>AMERICAN AIRLINES</value><value>AMERICAN FALCON</value><value>AMERICAN INTERNATIONAL AIRWAYS INC</value><value>AMERICAN TRANSAIR INC.</value><value>AMTRACK</value><value>ANGEL AIRLINES</value><value>ANSETT AUSTRALIA</value><value>ANSETT NEW ZEALAND</value><value>ANTINEA AIRLINES</value><value>AOM-MINERVE S.A.</value><value>AREOLINEAS INTERNACIONALES</value><value>ARIANA AFGHAN AIRLINES</value><value>ARKIA - ISRAELI AIRLINES LTD</value><value>ARMENIAN AIRLINES</value><value>ARROW AIR, INC</value><value>ASIANA AIRLINES INC</value><value>ASOCIADOS LATINOAMERICANOS DE TR</value><value>ASPEN MOUNTAIN AIR</value><value>ASPRING AIR LIMITED</value><value>ASSOCIATED AIRLINES</value><value>ATHABASKA AIRWAYS LTD</value><value>ATLANTIC AIRWAYS FAROE ISLANDS</value><value>ATLANTIC COAST AIRLINES DBA U.E.</value><value>ATLANTIC SOUTHEAST AIRLINES</value><value>AUGSBURG-AIRWAYS GMBH</value><value>AUS-AIR PTY LTD</value><value>AUSTIN EXPRESS INC</value><value>AUSTRIAN AIRLINES</value><value>AVIA EXPRESS</value><value>AVIACION DEL NOROESTE S.A. DE C.V.</value><value>AVIACION Y COMERCIO S.A. (AVIACO)</value><value>AVIACOMPANY TURKMENISTAN</value><value>AVIACSA</value><value>AVIANCA - AEROVIAS NACIONALES DE</value><value>AVIATECA, S.A.</value><value>AVIATION COMMERCIAL AVIATION</value><value>AVIOSARDA S.R.L.</value><value>AVRO</value><value>AZERBAIJAN HAVA YOLLARY</value><value>AZZURRA AIR S.P.A.</value><value>BAHAMASAIR</value><value>BALKAN - BULGARIAN AIRLINES</value><value>BANGKOK AIRWAY CO. LTD</value><value>BEARSKIN AIRLINES</value><value>BELAVIA</value><value>BELLVIEW AIRLINES LTD.</value><value>BEMIDJI AIRLINES</value><value>BERJAYA AIR SDN. BHD.</value><value>BIG SKY AIRLINES</value><value>BIMAN BANGLADESH AIRLINES</value><value>BINTER MEDITERRANEO S.A.</value><value>BIRDY AIRLINES</value><value>BLUE SCANDINAVA AB/BAXTER AVIATION</value><value>BMI BABY</value><value>BRAATHENS SOUTH AMERICAN AND</value><value>BRIT AIR</value><value>BRITISH AIRWAYS P.L.C.</value><value>BRITISH ARMY</value><value>BRITISH EUROPEAN FLIGHTS</value><value>BRITISH MIDLAND AIRWAYS LTD.</value><value>BRITTANNIA AIRWAYS LTD.</value><value>BUSINESS AVIATION SVCS EINDHOVEN</value><value>BUSINESS EXPRESS</value><value>BWIA INTERNATIONAL AIRWAYS LIMITED</value><value>CALEDONIAN AIRLINES</value><value>CAMEROON AIRLINES</value><value>CAMPANIA HISPANO IRLANDESA DE AVIA</value><value>CANADA 3000 AIRLINE LIMITED</value><value>CANADIAN AIRLINES INTL LIMITED</value><value>CANADIAN NORTH AIRLINE</value><value>CANJET AIRLINES</value><value>CAPE AIR</value><value>CAPITOL CARGO INTL. AIRLINES, INC</value><value>CARDINAL AIRLINES LIMITED</value><value>CASINO EXPRESS</value><value>CATHAY PACIFIC AIRWAYS LTD.</value><value>CAYMAN AIRWAYS LTD</value><value>CCAIR, INC</value><value>CEBU PACIFIC AIR</value><value>CENTRAL MOUNTAIN AIR LTD</value><value>CFLCO CHARTER</value><value>CHALAIR</value><value>CHICAGO EXPRESS AIRLINES, INC</value><value>CHINA AIRLINES</value><value>CHINA EASTERN AIRLINES</value><value>CHINA NORTHERN AIRLINES</value><value>CHINA NORTHWEST AIRLINES</value><value>CHINA SOUTHERN AIRLINES</value><value>CHINA SOUTHWEST AIRLINES</value><value>CHINA YUNNAN AIRLINES</value><value>CHINA YUNNAN AIRLINES</value><value>CIELOS DEL SUR S.A.</value><value>CIMBER AIR</value><value>CIRCLE AIR FREIGHT CORP</value><value>CITY BIRD</value><value>CITYJET</value><value>COAST AIR K.S.</value><value>COLGAN AIR</value><value>COMAIR, INC</value><value>COMMERCIAL AIRWAYS (PTY) LTD.</value><value>COMPAGNIE AERIENNE CORSE</value><value>COMPAGNIE AFRICAINE D'AVIATION </value><value>COMPANIA BOLIVIANA DE TRANS AEREO</value><value>COMPANIA DE AVIACON FAUCETT</value><value>COMPANIA MEXICANA DE AVIACION</value><value>CONDOR FLUGDIENST GMBTT</value><value>CONGO AIRLINES/EXPRESS ONE INTL INC</value><value>CONTINENTAL AIRLINES, INC.</value><value>CONTINENTAL MICRONESIA, INC.</value><value>COPA - COMPANIA PANAMENA DE</value><value>CORPORATE AIRLINES</value><value>CORSE AIR INTERNATIONAL</value><value>COSMOS AIR LUFTFAHRTUNTERNEHMEN GMB</value><value>CROATIA AIRLINES</value><value>CRONUS AIRLINES</value><value>CROSSAIR LTD COMPANY FOR EUROPEAN</value><value>CUBANA DE AVIACION S.A.</value><value>CYPRUS AIRWAYS</value><value>CZECH AIRLINES A.S. , CSA</value><value>DAC AIR S.A.</value><value>DANISH AIR TRANSPORT</value><value>DAS AIR LIMITED/SAMOA AVIATION</value><value>DEBONAIR AIRWAYS LTD.</value><value>DELTA AIR LINES INC.</value><value>DENAIR</value><value>DEUTSCHE BA LUFTFAHRTGESELLSCHAFT</value><value>DEUTSCHE LUFTHANSA AG</value><value>DHL INTERNATIONAL E.C.</value><value>DNIEPROAVIA</value><value>DONAVIA</value><value>DOWNEAST FLYING SERVICE, INC</value><value>DRUK AIR</value><value>EAGLE AIRLINES</value><value>EAGLE AVIATION LTD.</value><value>EAGLE CANYON AIRLINES INC</value><value>EAST WEST TRAVEL TRADE LINKS LTD.</value><value>EASTLAND AIR</value><value>EASTWIND AIRLINES, INC.</value><value>EASYJET</value><value>ECUATORIANA DE AVIACION S.A.</value><value>EGYPTAIR</value><value>EL AL ISRAEL AIRLINES LTD.</value><value>EMERALD AIRWAYS</value><value>EMIRATES</value><value>EMPIRE AIRLINES</value><value>ERA AVIATION</value><value>ESTONIAN AIR</value><value>ESTONIAN AIR</value><value>ETHIOPIAN AIRLINES ENTERPRISE</value><value>EURALAIR</value><value>EUROFLY</value><value>EUROPE CONTINENTAL AIRWAYS</value><value>EUROPEAN AIR TRANSPORT</value><value>EUROPEAN AIRLINES</value><value>EUROSCOT EXPRESS LIMITED DBA HAPPYJ</value><value>EUROSTAR (U.K.) LTD</value><value>EUROWINGS AG</value><value>EVA AIRWAYS CORPORATION</value><value>F'AIRLINES B.V.</value><value>FAIRLINES</value><value>FALCON AIR EXPRESS, INC.</value><value>FALCON AVIATION AB</value><value>FALCON EXPRESS CARGO AIRLINES/TAL</value><value>FEDEX</value><value>FIKA SALAAMA AIRLINES, LTD</value><value>FINNAIR OY</value><value>FIRST AIR</value><value>FISCHER AIR</value><value>FLAGSHIP AIRLINES, INC DBA AMERICAN</value><value>FLAMENCO AIRWAYS, INC.</value><value>FLANDRE AIR</value><value>FLIGHT WEST AIRLINES PTY LTD.</value><value>FLYING BOAT, INC DBA PAN AM AIR</value><value>FLYING ENTERPRISE AB</value><value>FORMOSA AIRLINES</value><value>FOUR STAR AVIATION</value><value>FRONTIER AIRLINES, INC</value><value>FRONTIER FLYING SERVICE</value><value>GANDAS AIRLINES</value><value>GARUDA INDONESIA</value><value>GB AIRWAYS LTD.</value><value>GENERAL &amp; AVIATION SERVICES</value><value>GEORGIAN ARLNS</value><value>GERMANIA FLUGGESELLSCHAFT/YANDA</value><value>GERMANWINGS</value><value>GESTAIR S.A.</value><value>GHANA AIRWAYS CORP.</value><value>GILL AVIATION LTD.</value><value>GO AIRLINE</value><value>GOLDEN AIR FLYG AB</value><value>GOLDEN WEST AIRLINES, INC</value><value>GORDA AERO SERVICES, INC/ROTTNEST </value><value>GRAND HOLDINGS, INC DBA CHAMP AIR</value><value>GRAND INTERNATIONAL AIRWAYS, INC.</value><value>GREENLANDAIR</value><value>GUJARAT AIRWAYS LIMITED</value><value>GULF AIR COMPANY G.S.C.</value><value>GULFSTREAM INTL AIRLINES, INC</value><value>GUYANA AIRWAYS</value><value>HAHN AIR BUSINESSLINE</value><value>HAITI AVIATION S.A. DBA AIR D'AYITI</value><value>HAITIAN AVIATION</value><value>HAPAG LLOYD EXPRESS</value><value>HAPAG LLOYD EXPRESS</value><value>HAPAG LLOYD FLUGGESELLSCHAFT</value><value>HARBOUR AIR LTD</value><value>HAWAIIAN AIRLINES</value><value>HAWK AIRLINES</value><value>HAZELTON AIRLINES</value><value>HELGOLAND ARLNS</value><value>HELI INTER RIVIERA</value><value>HELI-AIR-MONACO</value><value>HELIJET AIRWAYS</value><value>HELIKOPTERSERVICE, EUROAIR</value><value>HEMUS AIR</value><value>HEX' AIR</value><value>HIGHLAND AIR AB</value><value>HONG KONG DRAGON AIRLINES LIMITED</value><value>HORIZAN AIR</value><value>HORIZON AIRLINES</value><value>HUNTING CARGO AIRLINES</value><value>IBERIA -LINEAS AEREAS DE ESPANA</value><value>ICELANDAIR</value><value>IMAIR</value><value>IMPULSE AIRLINES PTY LIMITED</value><value>INDIAN AIRLINES</value><value>INTENSIVE AIR (PTY) LTD</value><value>INTER-AVIATION SVCS DBA INTER-AIR</value><value>INTERIMPEX - AVIOIMPEX</value><value>INTOURTRANS</value><value>IRAN AIR</value><value>IRAQI AIRWAYS</value><value>ISLAND AIRLINES, INC</value><value>ISLAND EXPRESS</value><value>ISLANDS NATIONAIR</value><value>ISLENA AIRLINES</value><value>ISTANBUL AIRLINES A.S.</value><value>ITALAIR</value><value>ITT SHERATON CLUB INTERNATIONAL</value><value>J.M.C.</value><value>JAMAHIRIYA LIBYAN ARAB AIRLINES</value><value>JANLIN PTY LTD DBA CAPE NY AIR</value><value>JAPAN AIR COMMUTER CO. LTD.</value><value>JAPAN AIR SYSTEM CO., LTD.</value><value>JAPAN AIRLINES COMPANY LTD.</value><value>JAPAN ASIA AIRWAYS CO LTD</value><value>JAPAN TRANSOCEAN AIR CO. LTD.</value><value>JARO INTERNATIONAL SA</value><value>JERSEY EUROPEAN AIRWAYS LTD.</value><value>JET AIRWAYS (INDIA) LIMITED</value><value>JET AIRWAYS, INC.</value><value>JET AVIATION BUSINESS JETS AG</value><value>JET TRAIN CORPORATION</value><value>JETBLUE AIRWAYS</value><value>JETSGO</value><value>JOINT STOCK COMPANY AIR CO. KARAT</value><value>JOINT-STOCK COMPANY SOCHI AIRLINE</value><value>JUGOSLOVENSKI AEROTRANSPORT (JAT)</value><value>KAMPUCHEA AIRLINES</value><value>KAZAKHSTAN AIRLINES</value><value>KENDELL AIRLINES</value><value>KENYA AIRWAYS</value><value>KEYSTONE AIR SERVICE LTD.</value><value>KIWI INTERNATIONAL AIR LINES</value><value>KLM CITYHOPPER</value><value>KLM ROYAL DUTCH AIRLINES</value><value>KOREAN AIR LINES CO. LTD.</value><value>KORSAR ARLNS</value><value>KUWAIT AIRWAYS</value><value>L.A.B. FLYING SERVICE INC</value><value>L.B. LIMITED</value><value>LABRADOR AIRWAYS</value><value>LADECO S.A. D/B/A LADECO AIRLINES</value><value>LAM - LINHAS AEREAS DE MOCAMBIQUE</value><value>LANDAIR INTERNATIONAL AIRLINES</value><value>LANE AVIATION</value><value>LANPERU</value><value>LAO AVIATION</value><value>LAUDA AIR LUFTFAHRT AG</value><value>LEEDS AIRLINES</value><value>LGW LUFTFAHRTGESELLSCHAFT</value><value>LIAT (1974) LTD.</value><value>LINEA AEREA NACIONAL-CHILE S.A.</value><value>LINEAS AEREAS COSTARRICENSES S.A.</value><value>LINEAS AEREAS PRIVADAS ARGENTINAS</value><value>LITHUANIAN AIRLINES</value><value>LLOYD AEREO BOLIVIANO S.A. (LAB)</value><value>LOGANAIR</value><value>LOT - POLISH AIRLINES</value><value>LTU INTERNATIONAL AIRWAYS</value><value>LUFTHANSA CITYLINE GMBH</value><value>LUXAIR</value><value>LVIV AIRLINES</value><value>MACEDONIAN AIRLINES</value><value>MAERSK AIR A/S</value><value>MAERSK AIR LTD.</value><value>MAGADAN AIRLINES</value><value>MALAYSIAN AIRLINE SYSTEM BERHAD</value><value>MALEV HUNGARIAN AIRLINES PUBLIC LTD</value><value>MALMO AVIATION</value><value>MALMO AVIATION</value><value>MANDARIN AIRLINES</value><value>MANX AIRLINES</value><value>MARITIME GLOBAL AIRLINES</value><value>MARTINAIR HOLLAND N.V.</value><value>MAVERICK AIRWAYS CORPORATION</value><value>MAYA AIRWAYS</value><value>MERIDIANA S.P.A.</value><value>MESABA AIRLINES</value><value>METAVIA AIRLINES (PTY) LTD</value><value>MIAT-MONGOLIAN</value><value>MIDDLE EAST AIRLINES AIRLIBAN</value><value>MIDWAY AIRLINES</value><value>MIDWEST EXPRESS</value><value>MILITARY CHARTER</value><value>MIRANIA ROMANIAN</value><value>MNG AIRLIENS CARGO/EXECAIRE INC</value><value>MOLDAVIAN ARLNS</value><value>MONARCH AIRLINES</value><value>MUK AIR</value><value>MYANMAR ARWYS INTL</value><value>NASKE-AIR</value><value>NATIONAL AIRCOMPANY SAKHA AVIA</value><value>NATIONAL AIRLINES CHILE</value><value>NATIONAL AIRLINES CHILE S.A.</value><value>NATIONAL AIRLINES, INC.</value><value>NATIONAL JET SYSTEMS PTY/NORTHERN</value><value>NATIONWIDE AIRLINES (PTY) LTD</value><value>NICA</value><value>NIGERIA AIRWAYS LTD.</value><value>NIPPON CARGO AIRLINES</value><value>NORTH-WRIGHT AIR LTD</value><value>NORTHERN THUNDERBIRD AIR LTD. DBA</value><value>NORTHWEST AIRLINES, INC.</value><value>NTW AIR</value><value>O'CONNOR-MT. GAMBIER'S AIRLINES</value><value>OLT-OSTFRIESISCHE LUFTRANSPORT</value><value>OLYMPIC AIRWAYS</value><value>OMAN AVIATION SERVICES CO. (SAOG)</value><value>ORBI GEORGIAN AIRWAYS</value><value>ORD AIR CHARTER PTY. LTD</value><value>ORIENT THAI AIRLINES</value><value>OY AIR FBOTNIA AB</value><value>P.T. SEMPATI AIR</value><value>PACIFIC AIRWAYS CORP (PACIFICAIR)</value><value>PACIFIC COASTAL AIRLINES LIMITED</value><value>PACIFIC ISLAND AVIATION</value><value>PACIFIC MIDLAND AIRLINES LTD.</value><value>PAKISTAN INTERNATIONAL AIRLINES</value><value>PALAIR MACEDONIAN AIR LINES AD</value><value>PALESTINIAN AIRLINES</value><value>PAN AIR LINEAS AEREAS S.A.</value><value>PAN AMERICAN AIRWAYS CORP.</value><value>PAN AMERICAN WORLD AIRWAYS, INC.</value><value>PARADISE ISLAND AIRLINES, INC DBA</value><value>PELANGI AIRWAYS SDN. BHD.</value><value>PEMAIR</value><value>PERIMETER AIRLINES</value><value>PHILIPPINE AIRLINES, INC.</value><value>PINE STATE AIRLINES</value><value>POLAR AIR CARGO</value><value>POLYNESIAN LIMITED</value><value>PORTUGALIA-COMPANHIA PORTUGUESA DE</value><value>PRIME AIR, INC</value><value>PRIMERAS LINEAS URUGUAYAS DE</value><value>PROAIR</value><value>PROTEUS</value><value>PROTHEUS HELICOPTERES</value><value>PROVINCIAL AIRLINES</value><value>PT BOURAQ</value><value>PT. MERPATI NUSANTARA</value><value>QANTAS AIRWAYS LTD.</value><value>QATAR AIRWAYS (W.L.L.)</value><value>REEVE ALEUTIAN AIRWAYS INC</value><value>REGION AIR PTE. LTD.</value><value>REGIONAL AIRLINES</value><value>REGIONAL AIRLINES</value><value>RENO AIR INC.</value><value>RHEINTALFLUG SEEWALD</value><value>RIGA AIRLINES</value><value>RIO-SUL SERVICOS AEREOS REGIONALES</value><value>ROMAVIA</value><value>ROYAL AIR MAROC</value><value>ROYAL AVIATION INC</value><value>ROYAL BRUNEI AIRLINES SDN BHD</value><value>ROYAL JORDANIAN</value><value>ROYAL NEPAL ARLNS</value><value>ROYAL SWAZI NATIONAL AIRWAYS CORP.</value><value>ROYAL TONGAN AIRLINES</value><value>ROYAN AIR CAMBODGE</value><value>RYANAIR LTD.</value><value>SA AIRLINK</value><value>SABENA</value><value>SAFAIR (PROPRIETARY) LTD.</value><value>SAHARA INDIA AIRLINES LTD.</value><value>SAMARA AIRLINES</value><value>SAN AIR COMPANY</value><value>SARDAIRLIEN - SOC. COOP. A.R.L.</value><value>SATA - AIR ACORES</value><value>SAUDI ARABIAN AIRLINES</value><value>SCANDINAVIAN AIRLINES SYSTEM (SAS)</value><value>SCENIC AIR, INC.</value><value>SCHREINER AIRWAY BV</value><value>SEABORNE AVIATION</value><value>SERICIOS AVENSA</value><value>SERVICIOS AEREAS NATIONALES S.A.</value><value>SERVICIOS AEREOS NACCIONALES (SAN)</value><value>SERVICIOS DE TRANSPORTES AEREOS</value><value>SHANDONG AIRLINES</value><value>SHOROUK AIR</value><value>SHUSWAP FLIGHT CENTER LTD</value><value>SHUTTLE AIR CARGO</value><value>SHUTTLE AMERICA</value><value>SHUTTLE INC DBA USAIR SHUTTLE</value><value>SIBERIA ARLNS</value><value>SICHUAN AIRLINES</value><value>SIERRA NATIONAL AIRLINES</value><value>SIERRA PACIFIC</value><value>SILKAIR (S) PTE LTD</value><value>SIMMONS AIRLINES INC</value><value>SINGAPORE AIRLINES</value><value>SKARGARDSFLYG AB</value><value>SKY WEST AIRLINES</value><value>SKYTRANS</value><value>SKYWAYS AB</value><value>SLOVAK AIRLINES</value><value>SOBELAIR</value><value>SOCIEDAD ECUATORIANA DE TRANSPORTES</value><value>SOCIEDED AERONUTICA MEDELLIN CON</value><value>SOCIETE NOUVELLE AIR GUADELOUPE</value><value>SOCIETE NOUVELLE AIR MARTINIQUE</value><value>SOCIETE NOUVELLE AIR TOULOUSE</value><value>SOLOMON AIRLINES</value><value>SOUTH AFRICAN AIRWAYS</value><value>SOUTHEAST AIRLINES</value><value>SOUTHERN AIR TRANSPORT</value><value>SOUTHWEST AIRLINES</value><value>SPANAIR S.A.</value><value>SPIRIT AIRLINES</value><value>STATE ENTERPRISE GOMELAVIA</value><value>STERLING EUROPEAN AIRLINES A/S</value><value>SUDAN AIRWAYS CO. LTD.</value><value>SUN AIR</value><value>SUN COUNTRY AIRLINES</value><value>SUN WORLD INTERNATIONAL</value><value>SUNFLOWER AIRLINES LTD.</value><value>SUNJET INTERNATIONAL</value><value>SURINAM AIRWAYS LTD.</value><value>SWEDEWAYS AIR LINES AB</value><value>SWISS AIR TRANS CO. LTD. (SWISSAIR)</value><value>SYRIAN ARAB AIRLINES</value><value>TAAG - LINHAS AEREAS DE ANGOLA</value><value>TACA INTERNATIONAL AIRLINES, S.A.</value><value>TACV</value><value>TAM - TRANSPORTES AEREOS</value><value>TAM - TRANSPORTES AEREOS DEL</value><value>TAMAIR</value><value>TAME</value><value>TAP - AIR PORTUGAL</value><value>TAROM - ROMANIAN AIR TRANSPORT</value><value>TAVREY AIRCOMPANY</value><value>TCH OF RUSSIAN AIRLINES</value><value>TCI SKYKING</value><value>TEMBEC AIRLINES</value><value>THAI AIRWAYS INTERNATIONAL PUBLIC</value><value>THE MOUNT COOK GROUP LTD.</value><value>THOMAS COOK AIRLINE</value><value>TIME AIR, INC</value><value>TOL AIR SERVICES, INC</value><value>TOWER AIR INC.</value><value>TRANS AIR</value><value>TRANS ARABIAN</value><value>TRANS COTE INC</value><value>TRANS MEDITERRANEAN AIRWAYS</value><value>TRANS STATES AIRLINES</value><value>TRANS TRAVEL</value><value>TRANS WORLD AIRLINES INC.</value><value>TRANSAERO AIRLINES</value><value>TRANSASIA AIRWAYS</value><value>TRANSAVIA AIRLINES</value><value>TRANSAVIAEXPORT CARGO AIRLINES</value><value>TRANSBRASIL S.A. LINHAS AEREAS</value><value>TRANSPORTES AEREAS DEL PERU, S.A.</value><value>TRANSPORTES AEREOS EJECUTIVOS S.A.</value><value>TRANSPORTES AEREOS REGIONAIS S.A.</value><value>TRANSWEDE AIRWAYS</value><value>TRAVEL IND. AUTO. SYSTEM</value><value>TRAVEL SERVICE</value><value>TROPIC AIR LTD/POLUS CENTRE FOR </value><value>TUNIS AIR</value><value>TURK &amp; CAICOS AIRWAYS</value><value>TURKISH AIRLINES INC.</value><value>TWIN JET</value><value>TYROLEAN ARWYS</value><value>TYUMEN ARLNS</value><value>U-LAND AIRLINES</value><value>UKRAINE INTERNATIONAL AIRLINES</value><value>UNITED AIRLINES, INC.</value><value>UNIVERSAL AIRWAYS INC.</value><value>UP AIRWAYS</value><value>UPS</value><value>URAL AIRLINES</value><value>US AIRWAYS, INC.</value><value>UZBEKISTAN HAVO YULLARY</value><value>VALUJET AIRLINES</value><value>VANGUARD AIRLINES</value><value>VARIG S.A.</value><value>VENEZOLANA INTERNACIONAL</value><value>VIACAO AEREA SAO PAULO, S.A. (VASP)</value><value>VIEQUES AIR LINK, INC.</value><value>VIETNAM AIRLINES CORPORATION</value><value>VIP AIR</value><value>VIRGIN ATLANTIC</value><value>VIRGIN BLUE</value><value>VIRGIN EXPRESS</value><value>VIVA, VUELOS INTERANCIONALES DE </value><value>VLM VLAAMSE</value><value>VOLGA AIRLINES</value><value>VOYAGEUR AIRWAYS</value><value>WALK IN</value><value>WEST JET AIRLINES LTD</value><value>WESTAIR COMMUTER AIRLINES, INC</value><value>WESTERN PACIFIC</value><value>WESTJET AIR</value><value>WIDEROE'S FLYVESELSKAP A/S</value><value>WINGS WEST AIRLINES, INC</value><value>WINWARD ISLANDS</value><value>XINJIANG ARLNS</value><value>YEMENIA YEMEN AIRWAYS</value><value>YUTE AIR ALASKA, INC.</value><value>ZAMBIAN EXPRESSS AIRWAYS (1995) LTD</value><value>ZIMBABWE EXPRESS AIRLINES</value>				
+			</domain>
+		</attr>
+</attrgroup>
+<attrgroup>
+		<attr name="Flight Number ">
+			<domain format="text_box">
+			</domain>
+		</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Contract ID (Discount Number)" ename="contract ID|Discount number">
+		<domain format="text_box">
+		</domain>
+		<additional>Company / Association Affiliation</additional>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Account Number ">
+		<domain format="text_box">
+		</domain>
+		<additional>Business Account / Central Bill: </additional>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="IATA Number">
+		<domain format="text_box">
+		</domain>
+		<additional>Travel Agents Only</additional>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://car.onetravel.com/" interurl="http://car.onetravel.com/">
+<srcname>OneTravel.com</srcname>
+<form>
+<attrgroup>
+	<attr name="Where do you want to pick-up your car?" ename="where pick up">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="  Where do you want to drop-off your car?  " ename="where drop off">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="When do you want to reserve your car? " ename="when reserve">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value>
+			</domain>
+			<domain format="selection_list">
+				<value>12:00 AM</value><value> 1:00 AM</value><value> 2:00 AM</value><value> 3:00 AM</value><value> 4:00 AM</value><value> 5:00 AM</value><value> 6:00 AM</value><value> 7:00 AM</value><value> 8:00 AM</value><value> 9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 noon</value><value> 1:00 PM</value><value> 2:00 PM</value><value> 3:00 PM</value><value> 4:00 PM</value><value> 5:00 PM</value><value> 6:00 PM</value><value> 7:00 PM</value><value> 8:00 PM</value><value> 9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="When do you want to return your car? " ename="when return">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2003</value><value>2004</value>
+			</domain>
+			<domain format="selection_list">
+				<value>12:00 AM</value><value> 1:00 AM</value><value> 2:00 AM</value><value> 3:00 AM</value><value> 4:00 AM</value><value> 5:00 AM</value><value> 6:00 AM</value><value> 7:00 AM</value><value> 8:00 AM</value><value> 9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 noon</value><value> 1:00 PM</value><value> 2:00 PM</value><value> 3:00 PM</value><value> 4:00 PM</value><value> 5:00 PM</value><value> 6:00 PM</value><value> 7:00 PM</value><value> 8:00 PM</value><value> 9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Who would you like to rent from?" ename="who rent from">
+		<domain format="selection_list">
+			<value>Any Company</value><value>Advantage</value><value>Alamo</value><value>Hertz</value><value>National</value><value>Thrifty</value><value>All American</value><value>----------------------</value><value>Ace</value><value>Auto Exotica</value><value>Americar</value><value>Affinity International</value><value>Airport</value><value>Practical</value><value>Austrian</value><value>Airways</value><value>ABC</value><value>Red And Blue</value><value>Town And Country Car</value><value>Charlie</value><value>Caribcars Inc.</value><value>Continental</value><value>Capital</value><value>TT Key Services</value><value>City</value><value>Dan Dooley</value><value>Der Travel</value><value>Discount Rentals</value><value>European</value><value>Eurodollar</value><value>Europcar</value><value>Eurorent</value><value>Enterprise</value><value>Executive</value><value>Us</value><value>EZRent Car</value><value>Able</value><value>Florida</value><value>Guy Salmon</value><value>Holiday Autos</value><value>Holiday House</value><value>Holiday</value><value>Hayat</value><value>Inter-American Car</value><value>Intercontinental</value><value>Kemwel</value><value>Kenning</value><value>L and M Car Rent</value><value>Allstate</value><value>VIP</value><value>Midway</value><value>Nationwide Car</value><value>Savmor</value><value>Ladki Int*L</value><value>Rpm Sys</value><value>Rent Rite Cars</value><value>Resort</value><value>Go Vacations</value><value>Rent-A-Wreck</value><value>Royal</value><value>I.T.S.</value><value>Usave Auto</value><value>Southwest Car</value><value>Sixt Auto</value><value>Tilden</value><value>Triangle</value><value>Tilden Rental</value><value>Usa</value><value>Vanwijk Rental Cars</value><value>Lax Express</value><value>AOR</value><value>Rental Car</value><value>Payless</value><value>Budget</value><value>Auto Host</value><value>Avis</value><value>General</value><value>Dollar</value><value>Auto Europe</value><value>Montgomery Wards</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="What type of car would you like?" ename="type of car">
+		<domain format="selection_list">
+			<value>Best Buy</value><value>Compact </value><value>Compact 4 Door</value><value>Compact-Pick-up</value><value>Convertible</value><value>Economy</value><value>Economy 2-Door</value><value>Economy 4- Door</value><value>Full Size</value><value>Full Size 4-Door</value><value>Full Size SUV</value><value>Intermediate</value><value>Intermediate - 4 Wheel Drive</value><value>Intermediate 2/4 Door</value><value>Intermediate; Convertibile</value><value>Luxury</value><value>Luxury 2-Door</value><value>Luxury 4-Door</value><value>Mini</value><value>MiniVan</value><value>Premium </value><value>Premium 2-Door</value><value>Premium 4-Door</value><value>Special</value><value>Special - 4 Wheel Drive</value><value>Special; special 4-Door</value><value>Special; Sport 4-Door</value><value>Sports Utility</value><value>Standard </value><value>Standard 4-Door</value><value>Standard 4X4-4 Doors</value><value>Standard Convertible 2-Door</value><value>SUV/4WD</value><value>VAN</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.orbitz.com" interurl="http://www.orbitz.com/App/DisplayCarSearch?OrbitzAprilProduction=PNAwpJBDHqHEpcKDoolmOAYnoyi4Uw5TYGWHTQNhh624XVEhxDH3|-520954532752468727/171067063/6/7001/7001/7002/7002/7001/-1&amp;cache=1020276901029&amp;requestId=6">
+<srcname>Orbitz</srcname>
+<form>
+<attrgroup>
+	<attr name="pick-up">
+		<domain format="text_box">
+		</domain>
+		<additional>*city name, or airport code</additional>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="">
+		<domain format="selection_list">
+			<value> at or near airport in city </value>
+			<value> or surrounding area </value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off" ename="drop off">
+		<domain format="text_box">
+		</domain>
+		<additional>*city name, or airport code</additional>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="pick-up " ename="pick up">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>Pick-Up Time</value><value>12:05 AM</value><value>12:30 AM</value><value>1:00 AM</value><value>1:30 AM</value><value>2:00 AM</value><value>2:30 AM</value><value>3:00 AM</value><value>3:30 AM</value><value>4:00 AM</value><value>4:30 AM</value><value>5:00 AM</value><value>5:30 AM</value><value>6:00 AM</value><value>6:30 AM</value><value>7:00 AM</value><value>7:30 AM</value><value>8:00 AM</value><value>8:30 AM</value><value>9:00 AM</value><value>9:30 AM</value><value>10:00 AM</value><value>10:30 AM</value><value>11:00 AM</value><value>11:30 AM</value><value>12:00 PM</value><value>12:30 PM</value><value>1:00 PM</value><value>1:30 PM</value><value>2:00 PM</value><value>2:30 PM</value><value>3:00 PM</value><value>3:30 PM</value><value>4:00 PM</value><value>4:30 PM</value><value>5:00 PM</value><value>5:30 PM</value><value>6:00 PM</value><value>6:30 PM</value><value>7:00 PM</value><value>7:30 PM</value><value>8:00 PM</value><value>8:30 PM</value><value>9:00 PM</value><value>9:30 PM</value><value>10:00 PM</value><value>10:30 PM</value><value>11:00 PM</value><value>11:30 PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off " ename="drop off">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>Pick-Up Time</value><value>12:05 AM</value><value>12:30 AM</value><value>1:00 AM</value><value>1:30 AM</value><value>2:00 AM</value><value>2:30 AM</value><value>3:00 AM</value><value>3:30 AM</value><value>4:00 AM</value><value>4:30 AM</value><value>5:00 AM</value><value>5:30 AM</value><value>6:00 AM</value><value>6:30 AM</value><value>7:00 AM</value><value>7:30 AM</value><value>8:00 AM</value><value>8:30 AM</value><value>9:00 AM</value><value>9:30 AM</value><value>10:00 AM</value><value>10:30 AM</value><value>11:00 AM</value><value>11:30 AM</value><value>12:00 PM</value><value>12:30 PM</value><value>1:00 PM</value><value>1:30 PM</value><value>2:00 PM</value><value>2:30 PM</value><value>3:00 PM</value><value>3:30 PM</value><value>4:00 PM</value><value>4:30 PM</value><value>5:00 PM</value><value>5:30 PM</value><value>6:00 PM</value><value>6:30 PM</value><value>7:00 PM</value><value>7:30 PM</value><value>8:00 PM</value><value>8:30 PM</value><value>9:00 PM</value><value>9:30 PM</value><value>10:00 PM</value><value>10:30 PM</value><value>11:00 PM</value><value>11:30 PM</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="car rental company ">
+		<domain format="selection_list">
+			<value>No Preference</value><value>Ace</value><value>Advantage Rent A Car</value><value>Alamo Rent A Car</value><value>Avis</value><value>Budget</value><value>Dollar Rent A Car</value><value>Enterprise</value><value>Fox Rent</value><value>Hertz</value><value>National Car Rental</value><value>Payless</value><value>Thrifty Car Rental</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="transmission ">
+		<domain format="radio_button">
+			<value>automatic</value><value> manual</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="air-conditioning " ename="air-conditioning">
+		<domain format="radio_button">
+			<value>yes</value><value> no</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://partners.priceline.com/" interurl="http://partners.priceline.com/rentalcars/lang/en-us/itinerary.asp?session_key=420011AC3F0011AC20030521222030798b40050805">
+<srcname>priceline</srcname>
+<form>
+<attrgroup>
+	<attr name="Pick-up / Drop-off City:" ename="pick up city | drop off city">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="pick-up date and time" ename="pick up date">
+		<input>
+			<domain format="text_box">
+			</domain>
+		</input>
+		<input>
+			<domain format="selection_list">
+				<value>Pick-Up Time</value><value>12:05 AM</value><value>12:30 AM</value><value>1:00 AM</value><value>1:30 AM</value><value>2:00 AM</value><value>2:30 AM</value><value>3:00 AM</value><value>3:30 AM</value><value>4:00 AM</value><value>4:30 AM</value><value>5:00 AM</value><value>5:30 AM</value><value>6:00 AM</value><value>6:30 AM</value><value>7:00 AM</value><value>7:30 AM</value><value>8:00 AM</value><value>8:30 AM</value><value>9:00 AM</value><value>9:30 AM</value><value>10:00 AM</value><value>10:30 AM</value><value>11:00 AM</value><value>11:30 AM</value><value>12:00 PM</value><value>12:30 PM</value><value>1:00 PM</value><value>1:30 PM</value><value>2:00 PM</value><value>2:30 PM</value><value>3:00 PM</value><value>3:30 PM</value><value>4:00 PM</value><value>4:30 PM</value><value>5:00 PM</value><value>5:30 PM</value><value>6:00 PM</value><value>6:30 PM</value><value>7:00 PM</value><value>7:30 PM</value><value>8:00 PM</value><value>8:30 PM</value><value>9:00 PM</value><value>9:30 PM</value><value>10:00 PM</value><value>10:30 PM</value><value>11:00 PM</value><value>11:30 PM</value>
+			</domain>
+		</input>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="drop-off date and time" ename="drop off date">
+		<input>
+			<domain format="text_box">
+			</domain>
+		</input>
+		<input>
+			<domain format="selection_list">
+				<value>Pick-Up Time</value><value>12:05 AM</value><value>12:30 AM</value><value>1:00 AM</value><value>1:30 AM</value><value>2:00 AM</value><value>2:30 AM</value><value>3:00 AM</value><value>3:30 AM</value><value>4:00 AM</value><value>4:30 AM</value><value>5:00 AM</value><value>5:30 AM</value><value>6:00 AM</value><value>6:30 AM</value><value>7:00 AM</value><value>7:30 AM</value><value>8:00 AM</value><value>8:30 AM</value><value>9:00 AM</value><value>9:30 AM</value><value>10:00 AM</value><value>10:30 AM</value><value>11:00 AM</value><value>11:30 AM</value><value>12:00 PM</value><value>12:30 PM</value><value>1:00 PM</value><value>1:30 PM</value><value>2:00 PM</value><value>2:30 PM</value><value>3:00 PM</value><value>3:30 PM</value><value>4:00 PM</value><value>4:30 PM</value><value>5:00 PM</value><value>5:30 PM</value><value>6:00 PM</value><value>6:30 PM</value><value>7:00 PM</value><value>7:30 PM</value><value>8:00 PM</value><value>8:30 PM</value><value>9:00 PM</value><value>9:30 PM</value><value>10:00 PM</value><value>10:30 PM</value><value>11:00 PM</value><value>11:30 PM</value>
+			</domain>
+		</input>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Select a car type" ename="car type">
+		<domain format="selection_list">
+			<value>-- choose --</value><value>Economy</value><value>Compact</value><value>Mid-size</value><value>Standard</value><value>Full-size</value><value>Premium</value><value>Luxury</value><value>Convertible</value><value>Minivan</value><value>SUV</value><value>Compact Pickup</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://travel.wwte1.com" interurl="http://travel.wwte1.com/pub/agent.dll?qscr=spec&amp;flag=f&amp;&amp;zz=1053555155788&amp;">
+<srcname>sunfinder.com Car Rental</srcname>
+<form>
+<attrgroup>
+	<attr name="Search for a car" ename="">
+		<domain format="radio_button">
+			<value>At an airport</value><value>In and around a city </value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up location" ename="pick up location">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up date" ename="pick up date">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off date" ename="drop off date">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car class">
+		<domain format="selection_list">
+			<value>No Preference</value><value>Economy</value><value>Compact</value><value>Midsize</value><value>Standard</value><value>Full Size</value><value>Premium</value><value>Luxury</value><value>Convertible</value><value>Mini-van</value><value>Sport Utility Vehicle</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up time" ename="pick up time">
+		<domain format="selection_list">
+			<value>12:00 midnight</value><value> 1:00 AM</value><value> 2:00 AM</value><value> 3:00 AM</value><value> 4:00 AM</value><value> 5:00 AM</value><value> 6:00 AM</value><value> 7:00 AM</value><value> 8:00 AM</value><value> 9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 noon</value><value> 1:00 PM</value><value> 2:00 PM</value><value> 3:00 PM</value><value> 4:00 PM</value><value> 5:00 PM</value><value> 6:00 PM</value><value> 7:00 PM</value><value> 8:00 PM</value><value> 9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off time" ename="drop off time">
+		<domain format="selection_list">
+			<value>12:00 midnight</value><value> 1:00 AM</value><value> 2:00 AM</value><value> 3:00 AM</value><value> 4:00 AM</value><value> 5:00 AM</value><value> 6:00 AM</value><value> 7:00 AM</value><value> 8:00 AM</value><value> 9:00 AM</value><value>10:00 AM</value><value>11:00 AM</value><value>12:00 noon</value><value> 1:00 PM</value><value> 2:00 PM</value><value> 3:00 PM</value><value> 4:00 PM</value><value> 5:00 PM</value><value> 6:00 PM</value><value> 7:00 PM</value><value> 8:00 PM</value><value> 9:00 PM</value><value>10:00 PM</value><value>11:00 PM</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Rental car company" ename="car company">
+		<domain format="selection_list">
+			<value>Our Picks</value><value>Advantage Rent-A-Car</value><value>Alamo Rent A Car</value><value>Avis</value><value>Budget</value><value>Dollar Rent A Car</value><value>Enterprise</value><value>Hertz</value><value>National Car Rental</value><value>Payless</value><value>Sixt</value><value>Thrifty Car Rental</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.travelocity.com/" interurl="http://www.travelocity.com/Cars/0,,BF00014870516100805324||Y,00.html?HPTRACK=mpc_car">
+<srcname>Travelocity.com</srcname>
+<form>
+<attrgroup>
+	<attr name="Pick-up city" ename="pick up city">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off city" ename="drop off city">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="">
+		<domain format="selection_list">
+			<value>Near or in the Airport terminal</value><value>City-North of Airport</value><value>City-South of Airport</value><value>City-East of Airport</value><value>City-West of Airport</value><value>City-Downtown location</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Company">
+		<domain format="selection_list">
+			<value>No preference</value><value>Advantage</value><value>Alamo Rent a Car</value><value>Avis Rent a Car</value><value>Budget Rent a Car</value><value>Dollar Rent a Car</value><value>Enterprise Rent a Car</value><value>Hertz Rent a Car</value><value>National Car Rental</value><value>Payless Car Rental</value><value>Practical Car Rental</value><value>Thrifty Car Rental</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Type">
+		<domain format="selection_list">		
+			<value>Compact</value><value>Economy</value><value>Intermediate</value><value>Standard</value><value>Full Size</value><value>Premium</value><value>Luxury</value><value>Convertible</value><value>Station Wagon</value><value>Van</value><value>Sport Utility (SUV)</value><value>Pickup Truck</value><value>Specialty</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="I need to pick up" ename="pick up">
+			<domain format="selection_list">
+				<value>12:00am</value><value>1:00am</value><value>2:00am</value><value>3:00am</value><value>4:00am</value><value>5:00am</value><value>6:00am</value><value>7:00am</value><value>8:00am</value><value>9:00am</value><value>10:00am</value><value>11:00am</value><value>12:00pm</value><value>1:00pm</value><value>2:00pm</value><value>3:00pm</value><value>4:00pm</value><value>5:00pm</value><value>6:00pm</value><value>7:00pm</value><value>8:00pm</value><value>9:00pm</value><value>10:00pm</value><value>11:00pm</value>
+
+			</domain>
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="and drop off" ename="drop off">
+			<domain format="selection_list">
+				<value>12:00am</value><value>1:00am</value><value>2:00am</value><value>3:00am</value><value>4:00am</value><value>5:00am</value><value>6:00am</value><value>7:00am</value><value>8:00am</value><value>9:00am</value><value>10:00am</value><value>11:00am</value><value>12:00pm</value><value>1:00pm</value><value>2:00pm</value><value>3:00pm</value><value>4:00pm</value><value>5:00pm</value><value>6:00pm</value><value>7:00pm</value><value>8:00pm</value><value>9:00pm</value><value>10:00pm</value><value>11:00pm</value>
+
+			</domain>
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.uk-car-rental.net/" interurl="http://www.uk-car-rental.net/html/ucr_calc.php?route=return">
+<srcname>UK Car Rental</srcname>
+<form>
+<attrgroup>
+	<attr name="Car Group" ename="Car Group">
+		<domain format="selection_list">
+			<value></value><value>B -- (5dr) Ford fiesta 1.2 a/c PAS</value><value>C -- (5dr) Vauxhall astra 1.4 a/c PAS</value><value>D -- (5dr) Ford Mondeo 1.8 a/c PAS</value><value>S -- Ford Mondeo 2.0LX manual</value><value>W -- Medium automatic VW Golf a/c</value><value>F -- Full size 2.2 Omega Auto</value><value>G -- Luxury 2.5CDi auto all extras</value><value>H -- (Automatic)</value><value>U -- Medium Estate Astra</value><value>E -- Large Estate Ford Mondeo</value><value>P -- 7 Seater automatic Minivan</value>		
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Start Date">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2001</value><value>2002</value><value>2003</value><value>2004</value><value>2005</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Start Time">
+			<domain format="selection_list">
+				<value>00</value><value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value>
+			</domain>
+			<domain format="selection_list">
+				<value>00</value><value>15</value><value>30</value><value>45</value>
+			</domain>
+	</attr>
+</attrgroup>		
+<attrgroup>
+	<attr name="Finish Date" ename="">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>2001</value><value>2002</value><value>2003</value><value>2004</value><value>2005</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Finish Time">
+			<domain format="selection_list">
+				<value>00</value><value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value>
+			</domain>
+			<domain format="selection_list">
+				<value>00</value><value>15</value><value>30</value><value>45</value>
+			</domain>
+	</attr>
+</attrgroup>		
+<attrgroup>
+	<attr name="Delivery to Address" removed="yes">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>		
+<attrgroup>
+	<attr name="OR Pickup Location" ename="pick up location">
+		<domain format="selection_list">
+			<value></value><value>Aberdeen</value><value>Barking</value><value>Basildon</value><value>Basingstoke</value><value>Bath</value><value>Bedford</value><value>Belfast City</value><value>Birmingham City</value><value>Birmingham North</value><value>Birmingham South</value><value>Bolton</value><value>Bournemouth</value><value>Bracknell</value><value>Bradford</value><value>Brighton</value><value>Bristol</value><value>Cambridge</value><value>Cardiff</value><value>Carlisle</value><value>Chelmsford</value><value>Chester</value><value>Coventry</value><value>Crawley</value><value>Croydon</value><value>Darlington</value><value>Dartford</value><value>Derby</value><value>Doncaster</value><value>Dover</value><value>Dundee</value><value>Eastbourne</value><value>Edenbridge</value><value>Edinburgh</value><value>Enfield</value><value>Exeter</value><value>Falmouth</value><value>Finchley</value><value>Fulham</value><value>Glasgow</value><value>Gloucester</value><value>Guernsey</value><value>Guildford</value><value>Hamilton</value><value>Harlow</value><value>High Wycombe</value><value>Hull</value><value>Inverness</value><value>Ipswich</value><value>Jersey</value><value>Kennington</value><value>Kings Cross</value><value>Kingston-on-Thames</value><value>Leeds</value><value>Leicester</value><value>Leigh</value><value>Lewisham</value><value>Lincoln</value><value>Liverpool</value><value>Luton</value><value>Maidstone</value><value>Manchester</value><value>Marble Arch</value><value>Middlesborough</value><value>Milton Keynes</value><value>Newbury</value><value>Newcastle-Upon-Tyne</value><value>Newport</value><value>Newquay</value><value>Northampton</value><value>North Cheam</value><value>Norwich</value><value>Nottingham</value><value>Orpington</value><value>Oxford</value><value>Park Royal</value><value>Peterborough</value><value>Plymouth</value><value>Poole</value><value>Portsmouth</value><value>Portsmouth Harbour</value><value>Preston</value><value>Reading</value><value>Salisbury</value><value>Sheffield</value><value>Slough</value><value>Southampton</value><value>St. Albans</value><value>Stevenage</value><value>Stirling</value><value>Stockport</value><value>Stoke on Trent</value><value>Stretham</value><value>Sunderland</value><value>Swansea</value><value>Swindon</value><value>Telford</value><value>Warrington</value><value>Watford</value><value>Wellingborough</value><value>Wigan</value><value>Wolverhampton</value><value>Worcester</value><value>Yeovil</value><value>York</value>
+		</domain>
+	</attr>
+</attrgroup>		
+<attrgroup>
+	<attr name="OR Airport" ename="airport">
+		<domain format="selection_list">
+			<value></value><value>Aberdeen Airport</value><value>Belfast City Airport</value><value>Belfast International Airport</value><value>Birmingham Airport</value><value>Bournemouth Airport</value><value>Bristol Airport</value><value>East Midlands Airport</value><value>Edinburgh Airport</value><value>Exeter Airport</value><value>Glasgow Airport</value><value>London Gatwick Airport</value><value>London Heathrow Airport</value><value>Luton Airport</value><value>Manchester Airport</value><value>Newcastle Airport</value><value>Newquay Airport</value><value>Prestwick Airport</value><value>Southampton Airport</value><value>Stansted Airport</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://www.woods.co.uk/index.asp" interurl="http://www.woods.co.uk/index.asp">
+<srcname>Woods Car Rental</srcname>
+<form>
+<attrgroup>
+	<attr name="starting from">
+		<domain format="selection_list">
+			<error> cannot extract the value because it's frameset</error>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+		<attr name="">
+			<domain label="day" format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+			<domain label="month" format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+			<domain format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+			<domain label="hour" format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+			<domain label="min" format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+		</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="">
+		<domain format="selection_list">
+			<error> cannot extract the value because it's frameset</error>
+		</domain>
+	</attr>
+</attrgroup>
+
+<attrgroup>
+	<attr name="" ename="Return branch">
+		<domain format="selection_list">
+			<error> cannot extract the value because it's frameset</error>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="">
+			<domain label="day" format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+			<domain label="month" format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+			<domain format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+			<domain label="hour" format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+			<domain label="min" format="selection_list">
+				<error> cannot extract the value because it's frameset</error>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="" ename="Age">
+		<domain format="selection_list">
+			<error> cannot extract the value because it's frameset</error>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="We quote in UK AND.... " ename="quote in UK">
+		<domain format="selection_list">
+			<error> cannot extract the value because it's frameset</error>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+<source url="http://edit.travel.yahoo.com" interurl="http://edit.travel.yahoo.com/config/ytravel?source=YG&amp;resform=YahooCars">
+<srcname>Yahoo Car Rental</srcname>
+<form>
+<attrgroup>
+	<attr name="">
+		<domain format="radio_button">
+			<value>Only Airport locations </value>
+			<value>Airport AND City locations</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up city">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off city (If different than pick-up city)" ename="drop-off city">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Pick-up">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>12:00 am</value><value>1:00 am</value><value>2:00 am</value><value>3:00 am</value><value>4:00 am</value><value>5:00 am</value><value>6:00 am</value><value>7:00 am</value><value>8:00 am</value><value>9:00 am</value><value>10:00 am</value><value>11:00 am</value><value>12:00 pm</value><value>1:00 pm</value><value>2:00 pm</value><value>3:00 pm</value><value>4:00 pm</value><value>5:00 pm</value><value>6:00 pm</value><value>7:00 pm</value><value>8:00 pm</value><value>9:00 pm</value><value>10:00 pm</value><value>11:00 pm</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Drop-off">
+			<domain format="selection_list">
+				<value>Jan</value><value>Feb</value><value>Mar</value><value>Apr</value><value>May</value><value>Jun</value><value>Jul</value><value>Aug</value><value>Sep</value><value>Oct</value><value>Nov</value><value>Dec</value>
+			</domain>
+			<domain format="selection_list">
+				<value>01</value><value>02</value><value>03</value><value>04</value><value>05</value><value>06</value><value>07</value><value>08</value><value>09</value><value>10</value><value>11</value><value>12</value><value>13</value><value>14</value><value>15</value><value>16</value><value>17</value><value>18</value><value>19</value><value>20</value><value>21</value><value>22</value><value>23</value><value>24</value><value>25</value><value>26</value><value>27</value><value>28</value><value>29</value><value>30</value><value>31</value>
+			</domain>
+			<domain format="selection_list">
+				<value>12:00 am</value><value>1:00 am</value><value>2:00 am</value><value>3:00 am</value><value>4:00 am</value><value>5:00 am</value><value>6:00 am</value><value>7:00 am</value><value>8:00 am</value><value>9:00 am</value><value>10:00 am</value><value>11:00 am</value><value>12:00 pm</value><value>1:00 pm</value><value>2:00 pm</value><value>3:00 pm</value><value>4:00 pm</value><value>5:00 pm</value><value>6:00 pm</value><value>7:00 pm</value><value>8:00 pm</value><value>9:00 pm</value><value>10:00 pm</value><value>11:00 pm</value>
+			</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Company">
+		<domain format="selection_list">
+			<value>No Preference</value><value>Advantage</value><value>Alamo Rent-A-Car</value><value>Avis Rent-A-Car</value><value>Budget Rent-A-Car</value><value>Dollar Rent-A-Car</value><value>Enterprise Rent-A-Car</value><value>Hertz Rent-A-Car</value><value>National Car Rental</value><value>Payless Car Rental</value><value>Practical Car Rental</value><value>Thrifty Rent-A-Car</value><value>All Others</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Car Type">
+		<domain format="selection_list">
+			<value>Compact Car</value><value>Economy Car</value><value>Mid-Size Car</value><value>Standard Car</value><value>Full Size Car</value><value>Premium Car</value><value>Luxury Car</value><value>Sports Car</value><value>Convertible</value><value>Station Wagon</value><value>MiniVan</value><value>Full-size Van</value><value>Sport Utility (SUV)</value><value>All-Terrain Vehicle</value><value>Pick-up Truck</value>
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Frequent Renter #">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Discount #">
+		<domain format="text_box">
+		</domain>
+	</attr>
+</attrgroup>
+<attrgroup>
+	<attr name="Select up to three of the following options **" ename="options">
+		<domain format="check_box">
+			<value>Ski Rack</value><value>Cassette Player</value><value>Child/Infant Seat</value><value>Snow Chains</value><value>Nav. System</value><value>Child/Toddler Seat</value><value>Bicycle Rack</value><value>Mobile Phone</value><value>Hand Control Left</value><value>Trailer Hitch</value><value>Luggage Rack</value><value>Hand Control Right</value>
+		</domain>
+	</attr>
+</attrgroup>
+</form>
+</source>
+
+</query_vocabulary>
